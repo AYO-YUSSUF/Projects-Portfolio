@@ -1,7 +1,7 @@
 # Projects-Portfolio
 This a repository for my projects.
 
-#Manual Image editor
+**PROJECT 1** #Manual Image editor
 
 Paste the images you want to edit in the "imgbox" Folder.
 
@@ -11,7 +11,7 @@ Check the "Image Editor files" folder for your edited pictures.
 
 For more Image effects check here>> https://pillow.readthedocs.io/en/stable/
  
-#Manual YouTube Downloader
+ **PROJECT 2** #Manual YouTube Downloader
 
 Open the "PyTube.py" file.
 
