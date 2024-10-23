@@ -1,6 +1,12 @@
 # Projects-Portfolio
 This a repository for my projects.
 
+**Recent PROJECT** # Midterm-Project (Combat Arena- A Python Game)
+ 
+ Check the Comment on the code for  for all Information.
+
+#I hope you find this helpful!
+
 **PROJECT 1** #Manual Image editor
 
 Paste the images you want to edit in the "imgbox" Folder.
