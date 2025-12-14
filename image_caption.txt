@@ -1,0 +1,1001 @@
+ID	caption
+ImageCLEFmedCaption_2022_train_000001	pericardial tamponade with clear distinction of epicardial border  and pericardium
+ImageCLEFmedCaption_2022_train_000002	angiography of the aortic arch show delay visualization of the aberrant right subclavian artery arrow
+ImageCLEFmedCaption_2022_train_000003	balloonocclude retrograde transvenous obliteration be attempt use a coaxial and double interruption system cytography be perform by insert the catheter into the shunt complete balloon occlusion be not achieve with a  balloon catheter arrow  the  mm balloon be inflate when the guide balloon catheter be fix at the optimum position arrow  follow which stasis of the contrast medium be observe we then perform balloonocclude retrograde transvenous obliteration use a sclerosing agent
+ImageCLEFmedCaption_2022_train_000004	film after glue embolization show no filling in the pseudoaneurysm and the glue angiocatheter
+ImageCLEFmedCaption_2022_train_000005	peripheral in posteroanterior projection angiography total occlusion in the left popliteal artery black arrow be observe with distal collateral filling white arrow
+ImageCLEFmedCaption_2022_train_000006	subtotal occlusion of the left main coronary artery
+ImageCLEFmedCaption_2022_train_000007	intravasation of dye
+ImageCLEFmedCaption_2022_train_000008	spinal needle see in the first sacral foramen in carm image
+ImageCLEFmedCaption_2022_train_000010	no right coronary ostium be observe use aortography
+ImageCLEFmedCaption_2022_train_000011	the right judkins catheter be gently pull back and the leave coronary artery clearly vbeualize leave anterior oblique cranial projection in thbe image the leave anterior descend coronary artery originate from the right sinus of valsalva then remain in its own way on cx artery
+ImageCLEFmedCaption_2022_train_000012	fluoroscopic image at shallow right anterior oblique projection show the positioning of ablate catheter in right upper pulmonary vein a halo b dislodge coronary sinus catheter c and right atrial catheter d
+ImageCLEFmedCaption_2022_train_000013	venous dissection of the leave brachiocephalic vein due to short length leave internal jugular vein tunnel cuff catheter
+ImageCLEFmedCaption_2022_train_000014	coronary angiogram demonstrating aneurysm in leave anterior descend artery black arrow
+ImageCLEFmedCaption_2022_train_000015	occlusion of persistent ductus venosus yellow arrow with a balloon wedge catheter introduce from the inferior vena cava balloon occlusion angiogram show adequate portal vein ramification
+ImageCLEFmedCaption_2022_train_000016	balloon catheter insert in over the wire note balloon marker arrow
+ImageCLEFmedCaption_2022_train_000017	angiographic image of fistula between superficial femoral artery and superficial femoral vein
+ImageCLEFmedCaption_2022_train_000018	vessel be straighten with two floppy guidewire and a balloon delivery system
+ImageCLEFmedCaption_2022_train_000019	angiographic image show normal coronary artery
+ImageCLEFmedCaption_2022_train_000020	leave ventriculogram show septation in the apical onethird of the left ventricle arrow
+ImageCLEFmedCaption_2022_train_000021	ercp show a  distal common bile duct stricture with upstream biliary dilation
+ImageCLEFmedCaption_2022_train_000022	cyst gastrostomy dilation with  mm balloon
+ImageCLEFmedCaption_2022_train_000023	endoscopic retrograde pancreatography the apply contrast fill the pancreatic duct which in the area of the pancreatic body and tail leak to the collection of the walloff pancreatic necrosis
+ImageCLEFmedCaption_2022_train_000024	when corsair microcatheter reach ostium of rca sion guidewire be change for  guidewire  cm
+ImageCLEFmedCaption_2022_train_000025	ultrasoundguide percutaneous transhepatic biliary drainage ptbd be use to divert bile from the duodenal stump right ptbd be do via  segmental bile duct from segment  of liver with an  pigtail catheter
+ImageCLEFmedCaption_2022_train_000026	anteroposterior view of the final position of radio frequency needle below  and  thoracic pedicle after nonionic contrast injection
+ImageCLEFmedCaption_2022_train_000027	angiography show a blush from a dorsal branch from the left internal iliac artery arrow
+ImageCLEFmedCaption_2022_train_000028	occlusion of the left main
+ImageCLEFmedCaption_2022_train_000029	no filling of left system during aortic root injection
+ImageCLEFmedCaption_2022_train_000030	saphenous venous graft angiography show giant aneurysm arrow with organize thrombus
+ImageCLEFmedCaption_2022_train_000031	the pseudoaneurysm be detect upon celiac axis injection with the aneurysmal sac slightly lateral to the edge of the plastic stent arrow the sac be no long see on a selective digital subtraction angiography image after successful embolization blood flow be maintain in the anterior segment of the right hepatic artery
+ImageCLEFmedCaption_2022_train_000032	visualization of the foramen ovale in the submental and oblique projection
+ImageCLEFmedCaption_2022_train_000033	flexible tip of the semirigid ureteroscope bend at distal ureter before pass through the iliac constriction
+ImageCLEFmedCaption_2022_train_000034	after balloon dilatation a major dissection occur in the proximal leave anterior descend artery white arrow which induce thrombolysis in myocardial infarction flow grade i to ii in the distal leave anterior descend artery black arrow
+ImageCLEFmedCaption_2022_train_000035	stentgraft plz
+ImageCLEFmedCaption_2022_train_000036	triple loop snare use to retrieve catheter fragment
+ImageCLEFmedCaption_2022_train_000037	the venogram of the right pelivis on prone position reveal an almost complete luminal occlusion of the right common and external iliac vein with development of the pelvic collateral
+ImageCLEFmedCaption_2022_train_000038	dsa image of the left eca collateral circulation be not encounter between left eca and ica
+ImageCLEFmedCaption_2022_train_000039	placement of a  x  mm esophageal stent
+ImageCLEFmedCaption_2022_train_000040	intraoperative cholangiogram a common hepatic duct b cystic duct c common bile duct
+ImageCLEFmedCaption_2022_train_000041	postembolization angiogram show absent communication of carotid artery and cavernous sinus ie carotidcavernous fistula close
+ImageCLEFmedCaption_2022_train_000042	wire in the distal segment
+ImageCLEFmedCaption_2022_train_000043	stenosis after patch angioplasty
+ImageCLEFmedCaption_2022_train_000044	pelvic angiogram show a bilateral superselective catheterization
+ImageCLEFmedCaption_2022_train_000045	coronary angiography leave anterior oblique view with  angulation show air bubble in the mid segment of the right coronary artery white arrow
+ImageCLEFmedCaption_2022_train_000046	angiography of the left coronary artery optimal anastomosis of the lima to the lad retrograde blood flow in the left mammary artery graft to the ladlater phase arrow
+ImageCLEFmedCaption_2022_train_000047	the  positivity he
+ImageCLEFmedCaption_2022_train_000048	conventional angiography show aneurysm in the origin of superior mesenteric artery
+ImageCLEFmedCaption_2022_train_000049	ivc filter deploy above the iliocaval stentthe fluoroscopic image demonstrate the permanent ivc filter yellow arrow deploy directly above the iliocaval stentivc inferior vena cava
+ImageCLEFmedCaption_2022_train_000050	digital subtraction image depict patient true anatomy venogram show leaveside ivc with filter black arrow preaortic trunk white arrow and a wallstent star deploy in right infrarenal ivc
+ImageCLEFmedCaption_2022_train_000051	check retinal staining arrow by the injection of radioopaque material through a microcatheter place in the ostium of the ophthalmic artery  prior to intraarterial chemotherapy administration
+ImageCLEFmedCaption_2022_train_000052	leave anterior oblique projection  show retrograde catheter placement at site of successful ablation
+ImageCLEFmedCaption_2022_train_000053	intraoperative leave uterine artery angiography and embolization use gelfoam
+ImageCLEFmedCaption_2022_train_000054	right coronary angiography show taper of the right coronary artery rca after the acute margin branch while the distal segment be dilated and drain to the same coronary sinus along with di
+ImageCLEFmedCaption_2022_train_000055	coronary angiography demonstrate mild right coronary artery irregularity with a  focal lesion with thrombus
+ImageCLEFmedCaption_2022_train_000056	digital subtraction angiogram obtain  hour after initiation of catheterdirect thrombolysis show patency of stented right common and external iliac artery
+ImageCLEFmedCaption_2022_train_000057	fluoroscopic image show endoscopic transmural drainage combine with percutaneous drainage in a patient with pancreatic necrosis
+ImageCLEFmedCaption_2022_train_000058	carm control while insert second hcs both screw be tighten and bury inside medial tibial cortex
+ImageCLEFmedCaption_2022_train_000059	needle position black arrow for injection of the local anaesthetic steroid mixture into the ganglion impar before injection of the mixture a small amount of contrast be inject which form a comma like appearance white arrow in front of the sacrococcygeal joint indicate the location of the ganglion impar
+ImageCLEFmedCaption_2022_train_000060	preserve flow in rca after burr retrieval lao  cran
+ImageCLEFmedCaption_2022_train_000061	leave ventriculogram in takotsubo cardiomyopathy
+ImageCLEFmedCaption_2022_train_000062	fluoroscopic image show two clip arrow implant in order to reduce mitral regurgitation
+ImageCLEFmedCaption_2022_train_000063	preoperative radiogram demonstrate severe mitral annular calcification extend to the left ventricle
+ImageCLEFmedCaption_2022_train_000064	flow guide pacing catheter in the right ventricular outflow tract thbe be then bring down to the right ventricular apex for pacing note balloon at tip of flow guide catheter the pigtail catheter at the apex of the arch of the aorta
+ImageCLEFmedCaption_2022_train_000065	right anterior oblique coronary angiographic image show a long dissection at the proximal portion to the distal part of the left anterior descend artery arrow
+ImageCLEFmedCaption_2022_train_000066	superselective catheterization of the interlobular artery
+ImageCLEFmedCaption_2022_train_000067	angiography lateral view arterial phase of the left eca in a  man with uncontrollable epistaxis less than  after surgical removal of a nasopharyngeal mass at the level of the spa a curvilinear contrast extravasation can be see along the posterior margin of the nasopharynx mimic the appearance of a vein know as the pseudo vein sign endovascular embolization with coil and gelfoam fragment successfully stop the bleeding
+ImageCLEFmedCaption_2022_train_000068	systemic atrioventricular valve cross with terumo wire through mullins sheath a  swanganz catheter be use to engage the stenotic valve a  jtip terumo wire be introduce into the systemic ventricle and ascend aorta
+ImageCLEFmedCaption_2022_train_000069	rich collateral formation between left circumflex artery and right lung assume as multiple fistula
+ImageCLEFmedCaption_2022_train_000070	selective right coronary angiography leave anterior oblique projection
+ImageCLEFmedCaption_2022_train_000071	rao cranial view on biplanar angiography show the catheter via a femoral approach enter the right atrium then through the unroofed coronary sinus into the left atrium and the pslvc selective dye injection into the plsvc opacifie the left atrium and the coronary sinus
+ImageCLEFmedCaption_2022_train_000072	aortography show an aberrant artery flow into the left  field
+ImageCLEFmedCaption_2022_train_000073	aortic arch injection demonstrate a type iii arch a type iii arch be technically more difficult to catheterize and obtain a stable guide catheter placement
+ImageCLEFmedCaption_2022_train_000074	the lcx be a dominant vessel with an aberrant branch from the distal left circumflex artery that cross the crux and continue to the right atrioventricular groove
+ImageCLEFmedCaption_2022_train_000075	the patients leave coronary angiography
+ImageCLEFmedCaption_2022_train_000076	fluoroscopyguide lumbar facet joint injection show intraarticular position of the needle tip and contrast fill the inferior recess arrow there be spread of contrast in the perifacetal region arrowhead due to rupture of the capsule
+ImageCLEFmedCaption_2022_train_000077	radiograph demonstrate a migrate biliary stent
+ImageCLEFmedCaption_2022_train_000078	coronary angiography analysis of lad lad rao caudal view  stenosis in the proximal and middle section with a linear shadow observe locally   stenosis with irregularity of distal lumen  diagonal branch ladleave anterior descend artery raoright anterior oblique
+ImageCLEFmedCaption_2022_train_000079	single contrast upper gastrointestinal in the anteroposterior view show contrast extravasation into and layering along the inferior pericardial sac arrow
+ImageCLEFmedCaption_2022_train_000080	leave anterior oblique fluoroscopic image show the inflated angioplasty balloon in the epicardial space to increase the separation between the endocardial ablation catheter and the phrenic nerve cs  coronary sinus catheter ice  intracardiac echocardiography catheter
+ImageCLEFmedCaption_2022_train_000081	endoscopic retrograde cholangiopancreatography ercp image of stent
+ImageCLEFmedCaption_2022_train_000082	angiography show severe lesion in the right coronary artery black arrow
+ImageCLEFmedCaption_2022_train_000083	right anterior oblique aortic root angiogram show no presence of an independent origin of the right coronary artery
+ImageCLEFmedCaption_2022_train_000084	radiography show the work cannula have successfully reach the operation area at  level
+ImageCLEFmedCaption_2022_train_000085	fluoroscopic image of the lumbar spine template place around the lumbar vertebra  on the first frame of the qf sequence
+ImageCLEFmedCaption_2022_train_000086	iohexol contrast media be inject with pressure through the narrow opening of the sinus on the skin to identify the location of the ttube tract
+ImageCLEFmedCaption_2022_train_000087	descend septal branch a branch of proximal right coronary artery arrow provide blood to part of the basal interventricular septum leave anterior oblique view with shallow cranial angulation this branch may occasionally have a separate origin from the right sinus of valsalva from the author personal dataset
+ImageCLEFmedCaption_2022_train_000088	angiogram frontal projection demonstrate left ventricular hypertrophy due to the severe coarctation of the aortic arch with a giant poststenotic aneurysm of the descend aorta
+ImageCLEFmedCaption_2022_train_000089	ercp appearance dilated choledochu and unclaved bile duct stone nearly  cm in size at distal end arrow
+ImageCLEFmedCaption_2022_train_000090	image after transcatheter superselective embolization of the lesion with the use of coil no vascular supply of the lesion be demonstrate
+ImageCLEFmedCaption_2022_train_000091	four year after the second coil embolization cerebral angiography reveal reenlargement of the remnant neck to recanalize the aneurysm to drastically grow far
+ImageCLEFmedCaption_2022_train_000092	axial fluoroscopy demonstration of balloon occlusion and percutaneous placement of the  micropuncture needle into the medial and cephalad portion of the psa
+ImageCLEFmedCaption_2022_train_000093	angiographic imaging of left coronary sinus show a single coronary ostium lmca leave main coronary artery rca right coronary artery
+ImageCLEFmedCaption_2022_train_000094	patient  right rca and leave lca coronary artery right anterior oblique rao  view
+ImageCLEFmedCaption_2022_train_000095	deployment of bms stent into proximal lad lesion
+ImageCLEFmedCaption_2022_train_000096	selective catheterization with subsequent angiogram of the third anterior division of the right hypogastric likely the right obturator artery with arrow pointing at cephalad branch in communication with the extravasated contrast accumulation
+ImageCLEFmedCaption_2022_train_000097	a still from the cag show  occlusion of the proximal rca white arrow
+ImageCLEFmedCaption_2022_train_000098	selective leave renal artery angiography after coil deployment and detachment there be a compact appearance of the coil and complete filling of the aneurysm with downstream vasculartree preservation
+ImageCLEFmedCaption_2022_train_000099	coronary angiogram show lmca lad and lcx with a prosthetic mitral valve arrow point to lcx artery
+ImageCLEFmedCaption_2022_train_000100	typical postoperative angiogram in thbe case a y composite be make by attach the radial artery to the left internal mammary artery show from the left anterior descend and an obtuse marginal anastomosbe be wide open
+ImageCLEFmedCaption_2022_train_000101	the degenerative nuclear atypic area ancient modification he
+ImageCLEFmedCaption_2022_train_000102	intraoperative angiography demonstrate that the stenosis disappear and that the left internal carotid artery keep patency after the stent deploy everolimuseluting coronary stent  boston scientific boston usa
+ImageCLEFmedCaption_2022_train_000103	percutaneous transhepatic cholangiography dye injection in left duct at the time of stent deployment two  cm transhepatic gianturco prosthesbe place through the right duct across the anastomosbe the low prosthesbe be fully open the upper locate in normal size duct be partially open
+ImageCLEFmedCaption_2022_train_000104	an angiogram show pulmonary tuberculosis in the right upper lung field type i right intercostobronchial angiography show hypervascularity from the bronchial artery grade i
+ImageCLEFmedCaption_2022_train_000105	rudimentary lad which be see to end abruptlyladleave anterior descend artery
+ImageCLEFmedCaption_2022_train_000106	a postoperative angiography show that the overall flow of the rightsided va be improve when the head be turn to the right va vertebral artery
+ImageCLEFmedCaption_2022_train_000107	totally occlude sfa
+ImageCLEFmedCaption_2022_train_000108	extremely large lcx be see course toward the apex with the apical lcx supply the territory of the ladlcx leave circumflex artery lad leave anterior descend artery
+ImageCLEFmedCaption_2022_train_000109	detection of apoptose retinal cell darc count in a glaucoma patient darc count be define as new unique individual  spot at their first appearance in the retina  injection reveal single neuronal cell apoptosis in the retina of study subject and darc count be increase in affect glaucoma patient compbed to healthy control
+ImageCLEFmedCaption_2022_train_000110	direct puncture by a  needle under fluoroscopy guidance demonstrate perfusion of the fluid collection surround the aneurysm main pancreatic duct arrowhead and duodenum arrow
+ImageCLEFmedCaption_2022_train_000111	fluoroscopic image obtain after placement of micropuncture needle in the peritoneal cavity show small amount of nonionic contrast material outline the bowel wall and confirm the intraperitoneal location of the needle
+ImageCLEFmedCaption_2022_train_000112	female with dural arteriovenous fistula lateral view of the right vertebral angiogram demonstrate the artery of davidoff and schechter ads supply the dural avf arrow
+ImageCLEFmedCaption_2022_train_000113	anteroposterior angiogram of the right vertebral artery show a dissect aneurysm arise from the right vertebral artery distal to origin of pica pica  posterior inferior cerebellar artery
+ImageCLEFmedCaption_2022_train_000114	digital subtraction angiogram anteroposterior left and lateral right projection of right common carotid artery injection an area of extravasation be appreciate in the anterior and medial cavernous segment arrow the extravasation be not vbeualized on the ap view due to artifact cause by nasal packing
+ImageCLEFmedCaption_2022_train_000115	interventional radiologistguide embolisation of the left pulmonary artery which be the culprit vessel
+ImageCLEFmedCaption_2022_train_000116	leave coronary artery rao  caudal
+ImageCLEFmedCaption_2022_train_000117	the left subclavian artery with implant stent renewal of anterograde blood flow in the left mammary artery arrow
+ImageCLEFmedCaption_2022_train_000118	aortic root angiogram with marker pigtail to verify sizing
+ImageCLEFmedCaption_2022_train_000119	complete occlusion of the posterolateral branch of right coronary artery
+ImageCLEFmedCaption_2022_train_000120	selective angiography of the hepatic artery show multiple variablysized and hypervascular lesion in both hepatic lobe arrow indicate hepatocellular carcinoma
+ImageCLEFmedCaption_2022_train_000121	before right uterine artery embolization
+ImageCLEFmedCaption_2022_train_000122	area to be crop
+ImageCLEFmedCaption_2022_train_000123	initial angiogram initial angiography show severe stenosis of the left common iliac artery red arrow and total occlusion of the left external iliac artery arrowhead the common femoral artery be delayenhance via collateral circulation yellow arrow
+ImageCLEFmedCaption_2022_train_000124	two wire pass through the stricture the flexible cystoscope be place inside the ileal conduit at the dbetal end of the stricture note the awkward acute angle at the anastomotic stricture
+ImageCLEFmedCaption_2022_train_000125	patient  twentyfouryearold male after bike accident
+ImageCLEFmedCaption_2022_train_000126	balloon angioplasty of stricture choledochojejunostomy
+ImageCLEFmedCaption_2022_train_000127	postoperative tfca show  thrombosis
+ImageCLEFmedCaption_2022_train_000128	fluoroscopic image show the attempt to cannulate the stent with a guidewire
+ImageCLEFmedCaption_2022_train_000129	four vessel digital subtraction angiogram show the absence of prominent arterial feeder or tumor blush
+ImageCLEFmedCaption_2022_train_000130	blood flow be restore after percutaneous coronary intervention of the lad coronary artery arrow
+ImageCLEFmedCaption_2022_train_000131	mri of the brain with contrast increase flow in the left cavernous sinus and engorgement of the left ophthalmic vein
+ImageCLEFmedCaption_2022_train_000132	stent implantation  promus element  mm   mm   atm
+ImageCLEFmedCaption_2022_train_000133	angiogram of a   infant with arch hypoplasia in lateral view show a amplatzer vascular plug ii  device use to close a  ductus the device produce a significant pressure gradient between the ascend and descend aorta
+ImageCLEFmedCaption_2022_train_000134	rao cranial view of right coronary system rca be a severe ectactic vessel with diffuse thrombus in midsegment rca right coronary artery
+ImageCLEFmedCaption_2022_train_000135	leave internal mammary artery anastomose to leave anterior descend artery
+ImageCLEFmedCaption_2022_train_000136	azygosportal vein collateral in a patient candidate for fontan xray angiography show an azygosportal vein collateral  miss at mra
+ImageCLEFmedCaption_2022_train_000137	tip through the left branch of the portal vein
+ImageCLEFmedCaption_2022_train_000138	contrast injection through percutaneous abscess drain show communication between abscess leave biliary system and extravasation of contrast
+ImageCLEFmedCaption_2022_train_000139	old woman involve in a rollover motor vehicle collision on admission to the hospital a screen fourvessel angiogram reveal a pseudoaneurysm of the leave vertebral artery at the level of the  disc space followup angiography perform  day later reveal enlargement of the pseudoaneurysm and concomitant narrow of the vertebral artery due to the tortuosity of the vertebral artery stent placement be not deem a viable option and the vertebral artery be embolize lateral digital subtraction angiogram leave vertebral artery notice the pseudoaneurysm arise from the distal vertebral artery arrow and the adjacent vertebral artery narrow
+ImageCLEFmedCaption_2022_train_000140	the angiographic image show a dilated left internal mammary artery with a fistula to the internal mammary vein
+ImageCLEFmedCaption_2022_train_000141	coronary angiogram right anterior oblique view of lad prior to percutaneous coronary intervention show dissection with clot in proximal lad with timi  flow distally black arrow
+ImageCLEFmedCaption_2022_train_000142	due to large resting gap there be still a gap of  mm on phonation
+ImageCLEFmedCaption_2022_train_000143	coronary angiogram after the redo coronary artery bypass grafting coronary angiogram after the redo coronary artery bypass grafting show a patent right internal thoracic artery and blood flow communication between the first diagonal branch and the left anterior descend artery red arrow
+ImageCLEFmedCaption_2022_train_000144	venogram demonstrate the line position and persbetent leaveside svc contrast injection show variant drainage of the neck and arm vein with right and leave brachiocephalic vein divide to drain into a normally place right svc and a persbetent leaveside svc which be drain into the right atrium inferiorly thbe patient have a persbetent leaveside svc drain into the right atrium the line tip be in thbe vessel give good flow in both lumen
+ImageCLEFmedCaption_2022_train_000145	late arterial phase of left upper renal artery demonstrate abnormal vascularity of aml and extravasation from the pseudoaneurysm
+ImageCLEFmedCaption_2022_train_000146	after second bare metal stent implantation there be no more contrast extravasation into the pericardial space thbe be evaluate as complete sealing of the coronary perforation
+ImageCLEFmedCaption_2022_train_000147	fluoroscopic view of deploy transcatheter  mm edwards valve within stenotic mitral tissue valve with delivery sheath in left ventricular cavity and amplatz wire through deploy valve
+ImageCLEFmedCaption_2022_train_000148	angiography show leave main coronary artery arise from the right sinus of valsalva rca right coronary artery lad leave anterior descend artery lcx leave circumflex coronary artery
+ImageCLEFmedCaption_2022_train_000149	after  week repeat cerebral angiogram show the pseudoaneurysm change more aggravating appearance
+ImageCLEFmedCaption_2022_train_000150	digital subtraction angiography show the pseudoaneurysm be vascularize from the deep palmar arch the deep palmar arch be an anatomically incomplete variant the radial part of the incomplete arch be vascularize from a branch originate from the radial artery and the ulnar part by a branch from the metacarpal artery from the third and fourth finger
+ImageCLEFmedCaption_2022_train_000151	final retrograde ureteropyelography show resolution of urine leakage
+ImageCLEFmedCaption_2022_train_000152	case  a a  electrocardiogram with an aggressive inferiorlateral er pattern during hypothermia treatment red arrow b the electrocardiogram be completely normalize after adminbetration of beoproterenol infusion
+ImageCLEFmedCaption_2022_train_000153	passage of a  hydra jagwire boston scientific into the gallbladder though the  g needle cook endoscopy from the transduodenal position
+ImageCLEFmedCaption_2022_train_000154	select renal angiography
+ImageCLEFmedCaption_2022_train_000155	leave anterior oblique lao position of the aorca graftabbreviation caud caudal aorca aorta to the right coronary artery
+ImageCLEFmedCaption_2022_train_000156	stenosis of both subclavian artery
+ImageCLEFmedCaption_2022_train_000157	lao and  cra angiographic control at day  show reopen diagonallad
+ImageCLEFmedCaption_2022_train_000158	preintervention diagnostic angiogram delineate bleed from aortoesophageal fistula
+ImageCLEFmedCaption_2022_train_000159	minute after reopro infusion the forward flow through the filling defect show reestablish on the left cca ap view
+ImageCLEFmedCaption_2022_train_000160	preliminary angiography confirm aps presence
+ImageCLEFmedCaption_2022_train_000161	aortic root angiogram showing normally situate leave and right coronary ostium normal leave main stem and small atretic right coronary artery
+ImageCLEFmedCaption_2022_train_000162	angiogram at  followup show complete obliteration of the pseudoaneurysm and successful reconstruction of the left internal carotid lumen
+ImageCLEFmedCaption_2022_train_000163	final angiogram show wellexpand stent at cuprit lesion and full opacification of distal rca rca right coronary artery
+ImageCLEFmedCaption_2022_train_000164	angiogram show atherosclerotic ras
+ImageCLEFmedCaption_2022_train_000165	digital subtraction angiogram of the right internal mammary artery show hypertrophied second right bronchial artery arise from the internal mammary artery this bronchial artery be embolize use pvagelfoam slurry after selective cannulation
+ImageCLEFmedCaption_2022_train_000166	example patient  preintervention angiography preintervention angiography of proximal right  middle cerebral artery demonstrate severe focal stenosis
+ImageCLEFmedCaption_2022_train_000167	right coronary artery reveal a  percent ostial narrowing show by arrow
+ImageCLEFmedCaption_2022_train_000168	lao cranial view of the rca origin of the lad artery from the ostium of the rca can be see along with severe stenosis of the proximal portion of the lad artery the distal lad artery with septal branch can also be see
+ImageCLEFmedCaption_2022_train_000169	radiographic series perform during oesophageal dilatation
+ImageCLEFmedCaption_2022_train_000170	cardiac catheter
+ImageCLEFmedCaption_2022_train_000171	intraop iitv imageshow fixation with pedicle screw and transpedicular curettage of the body of  vertebra with a curette to remove the tubercular material iitv image intensifier television
+ImageCLEFmedCaption_2022_train_000172	lateral fluoroscopic view show needle position below the  pedicle and intradiscal contrast injection
+ImageCLEFmedCaption_2022_train_000173	angiographic situation before and after embolization of the left uterine artery
+ImageCLEFmedCaption_2022_train_000174	right coronary angiogram in a straight right anterioroblique projection demonstrate two fistulae indicate by arrow the first fistula connect the proximal right coronary artery to the right atrium and the second appear to connect the midvessel to the small cardiac vein
+ImageCLEFmedCaption_2022_train_000175	shunt in lateral view immediately after the final deployment of disk
+ImageCLEFmedCaption_2022_train_000176	late phase of right coronary angiography after fill back the anomalous left anterior descend the contrast be drain back to the pulmonary artery trunk
+ImageCLEFmedCaption_2022_train_000177	final result after transradial intervention
+ImageCLEFmedCaption_2022_train_000178	an emergency right coronary angiogram  year prior
+ImageCLEFmedCaption_2022_train_000179	follow through demonstrate the extent of the sequester segment
+ImageCLEFmedCaption_2022_train_000180	angiography during deb tace the angiography during tace show the large tumor occupy a central position in the liver
+ImageCLEFmedCaption_2022_train_000181	coil embolisation of right hepatic arterial pseudoaneurysm
+ImageCLEFmedCaption_2022_train_000182	a  f laser sheath solid arrow be manipulate carefully over the j retention wire and bend it forward enable the sheath to be advanced to the dbetal tip of the lead with additional laser energy the atrial lead be free completely from the appendage also see be the mechanical sheath hollow arrow within its outer sheath pull traction on the right ventricular lead
+ImageCLEFmedCaption_2022_train_000183	coronary angiography lao   view show mid rca stent deployment
+ImageCLEFmedCaption_2022_train_000184	dsa true lateral view post embolization leave eca injection arterial phase obliterate fistula and non filling of cavernous sinus
+ImageCLEFmedCaption_2022_train_000185	narrowing of proximal to mid leave anterior descend artery arrow
+ImageCLEFmedCaption_2022_train_000186	in the digital subtraction angiography imaging there be mild vertebral artery stenosbe in the neutral position
+ImageCLEFmedCaption_2022_train_000187	collateral vein in both right and left side drain the low limb vein through the hemiazygos vein to the right heart
+ImageCLEFmedCaption_2022_train_000188	retrograde pyelogram do before ureterorenoscopy show fill defect in right low ureter
+ImageCLEFmedCaption_2022_train_000189	left heart catheterization show ballooning of the midleft ventricular cavity during systole
+ImageCLEFmedCaption_2022_train_000190	first angiogram reveal patent diagonal branch
+ImageCLEFmedCaption_2022_train_000191	pretreatment leave internal carotid angiography show a giant fusiform aneurysm in the cavernous segment
+ImageCLEFmedCaption_2022_train_000192	stent inflation across the rvot
+ImageCLEFmedCaption_2022_train_000193	entrap burr at distal leave anterior descend artery and rescue by balloon inflation arrow at the proximal stenotic lesion
+ImageCLEFmedCaption_2022_train_000194	circumflex artery lcx be aplastic as show in the left caudal angiographic projection
+ImageCLEFmedCaption_2022_train_000195	loop of wire soft end in left ventricle
+ImageCLEFmedCaption_2022_train_000196	case  a  electrocardiogram with inferolateral early repolarization pattern with jpoint elevation and qrs slur after hypothermia treatment red arrow
+ImageCLEFmedCaption_2022_train_000197	amplatz gooseneck snare place by a transhepatic access use to move the bullet away from the balloon and into a side branch of the rhv favorable for retrieval
+ImageCLEFmedCaption_2022_train_000198	the venous phase of superior mesenteric arteriography show a large shunt between the inferior mesenteric vein and leave internal iliac vein
+ImageCLEFmedCaption_2022_train_000199	coronary angiography show no obstructionarrow point to the right coronary artery
+ImageCLEFmedCaption_2022_train_000200	diagnostic cerebral angiogram show dissect widenecked leave mca aneurysm and widenecked complex basilar type aneurysm after embolization
+ImageCLEFmedCaption_2022_train_000201	occlusion cholangiogram during endoscopic retrograde cholangiopancreatography with a balloon catheter show the tortuous cystic duct and partially fill gallbladder with a large  cm stone
+ImageCLEFmedCaption_2022_train_000202	coronary angiography show total occlusion of the right coronary
+ImageCLEFmedCaption_2022_train_000203	vertebral angiography at  level there be stagnation of contrast at the anterior spinal canal portion pseudoaneurysm arrow be suspect
+ImageCLEFmedCaption_2022_train_000204	aps embolization
+ImageCLEFmedCaption_2022_train_000205	leave internal carotid artery angiogram obtain  month later demonstrate diffuse stenosis throughout the stente segment of the internal carotid artery most severely within the midportion of the stent
+ImageCLEFmedCaption_2022_train_000206	venogram of post arterial switch repair patient demonstrate narrow at superior vena cava innominate junction ijv  internal jugular vein svc  superior vena cava ivc  inferior vena cava mpa  main pulmonary artery rpa  right pulmonary artery lpa  left pulmonary artery ra  right atrium arrow head show narrow at superior vena cava  innominate junction
+ImageCLEFmedCaption_2022_train_000207	case  fluoroscopy image show a stricture red arrow at the fusion position of the distal common bile duct cbd and pancreatic duct and dilation of the cbd
+ImageCLEFmedCaption_2022_train_000208	aortogram in  show residual coa repair site arrow
+ImageCLEFmedCaption_2022_train_000209	man with scrotal avm during the initial treatment flow through the avm be occlude follow the placement of six microcoil arrow
+ImageCLEFmedCaption_2022_train_000210	flouroscopic image of plastic stent   during insertion over guide catheter
+ImageCLEFmedCaption_2022_train_000211	man with severe aortic stenosis doubleoblique reconstruction image of ecggate multidetector ct show calcified tricuspid valve
+ImageCLEFmedCaption_2022_train_000212	aortic angiography demonstrate the pseudoaneurysm arrow and the severe aortic regurgitation see also movie
+ImageCLEFmedCaption_2022_train_000213	lao cranial view show common origin of both rca main coronary artery and leave main coronary artery
+ImageCLEFmedCaption_2022_train_000214	this image demonstrate a hepatic vein stent place for hepatic venous stenosis in a liver transplant the patient be undergo a subsequent tips procedure
+ImageCLEFmedCaption_2022_train_000215	spinal angiography show diffuse blush at the site of lesion
+ImageCLEFmedCaption_2022_train_000216	dilated vein patch after angioplasty
+ImageCLEFmedCaption_2022_train_000217	cerebral angiogram perform on  october  the float thrombus be observe at the left internal carotid artery arrow
+ImageCLEFmedCaption_2022_train_000218	balloon occlusion test which be perform before tumor removal show a good crossfilling via the anterior communicating and no vascular lesion
+ImageCLEFmedCaption_2022_train_000219	contrast spread up to head of  rib
+ImageCLEFmedCaption_2022_train_000220	angiographic view of peripancreatic artery with paaa before treatment the same patient as figures  and
+ImageCLEFmedCaption_2022_train_000221	digitally subtract angiography oblique image of the right external iliac artery demonstrate pseudoaneurysm in the superior lateral aspect of the image
+ImageCLEFmedCaption_2022_train_000222	the  guidewire be cross retrogradely into the aorta by the riolan arc and be snare through the contralateral right femoral sheath
+ImageCLEFmedCaption_2022_train_000223	advancement of the guidewire across the ampullary orifice after cross a distal biliary obstruction
+ImageCLEFmedCaption_2022_train_000224	catheter introduce into the aorta the ascend aorta the arch with all the brachiocephalic branch and the descend aorta be visualise
+ImageCLEFmedCaption_2022_train_000225	subtract angiographic image of the portal vein demonstrate the  intrahepatic portovenous shunt at the time of pve gray arrow point toward the  portovenous shunt pve portal venous embolization
+ImageCLEFmedCaption_2022_train_000226	carotid angiogram do after  week show complete resolution of carotid cavernous fistula with preservation of internal carotid artery blood flow
+ImageCLEFmedCaption_2022_train_000227	angiographic evidence of instent thrombosis in the midsegment of previous lad stent
+ImageCLEFmedCaption_2022_train_000228	borderline constriction in the middledistal rca
+ImageCLEFmedCaption_2022_train_000229	rca dominance give rise to lad in leave anterior oblique lao view with temporary lead in situ
+ImageCLEFmedCaption_2022_train_000230	left ventriculography rightanterioroblique cranial view anteroapical segment aneurysm
+ImageCLEFmedCaption_2022_train_000231	postembolization angiogram demonstrate cessation of flow within the tumor blush follow embosphere administration and embolization of the proximal sphenopalatine artery with a microcoil
+ImageCLEFmedCaption_2022_train_000232	case  telemetry tracing ventricular fibrillation precede by a ventricular extrasystole
+ImageCLEFmedCaption_2022_train_000233	arteriogram after embolization to a splenic aneurysm demonstrate no extravasation
+ImageCLEFmedCaption_2022_train_000234	lateral angiogram of the left carotid arterial tree of a donkey show variation from the common pattern of this structure the left internal carotid artery red open arrow originate very caudal to the common carotid artery termination  common carotid artery  external carotid artery  internal carotid artery  occipital artery  linguofacial trunk
+ImageCLEFmedCaption_2022_train_000235	angiographic study show coiling of the distal segment of the right internal carotid artery lateral view
+ImageCLEFmedCaption_2022_train_000236	angiography show an endovascular stent place in the left common iliac artery
+ImageCLEFmedCaption_2022_train_000237	left system angiography
+ImageCLEFmedCaption_2022_train_000238	advancement of a  burr through the dio thrombus aspiration catheter
+ImageCLEFmedCaption_2022_train_000239	cholangiographic view reveal a dilated common bile duct with multiple irregular filling defect form by the hydatid membrane
+ImageCLEFmedCaption_2022_train_000240	intraoperative digital subtraction angiography show a large saphenous vein graft supply  of the renal isthmus to the aberrant renal artery
+ImageCLEFmedCaption_2022_train_000241	arteriography of the superficial femoral artery sfa the black arrow denote the lesion of the sfa the white arrow denote the radiographic image of the rubber bullet
+ImageCLEFmedCaption_2022_train_000242	right ventricular defibrillation lead and atrial lead location right anterior oblique rao  view
+ImageCLEFmedCaption_2022_train_000243	male status post gunshot wound abdominal aortic angiogram demonstrate blush around the infrarenal aorta immediately follow by contrast opacification of the adjacent inferior vena cava
+ImageCLEFmedCaption_2022_train_000244	the prominence of the triradiate bump be measure as the amount of medial projection of the triradiate cartilage white bracket from a point perpendicular to the tangent of a goodfit ellipse overlay the iliopectineal line
+ImageCLEFmedCaption_2022_train_000245	venogram of right arm demonstrate occlusion of right axillary and subclavian vein
+ImageCLEFmedCaption_2022_train_000246	a lateral radiograph demonstrate the first needle placement for radiofrequency ablation of the third occipital nerve
+ImageCLEFmedCaption_2022_train_000247	case  a  electrocardiogram with inferolateral early repolarization pattern with jpoint elevation and qrs slur after hypothermia treatment red arrow
+ImageCLEFmedCaption_2022_train_000248	venography after initial unsuccessful attempt
+ImageCLEFmedCaption_2022_train_000249	superior rectal venogram obtain after embolization of the rectal varix with multiple coil arrow nbutyl cyanoacrylate glue thrombin and gelfoam note that no rectal varix be vbeualize hepatopetal flow within the superior rectal vein be note arrowhead
+ImageCLEFmedCaption_2022_train_000250	anteroposterior view follow multiple thrombectomy attempt with a single stent retriever reveal a residual clot persist at the bifurcation of the basilar artery that be impede blood flow
+ImageCLEFmedCaption_2022_train_000251	the representative digital subtraction angiography of the patient with hbvassociate icc who receive tace all patient who receive postoperative tace be due to early local recurrence of the tumor and all these patient demonstrate relatively abundant blood supply of tumor compare with other that the blood supply to the tumor be less abundant
+ImageCLEFmedCaption_2022_train_000252	standard renal arteriography
+ImageCLEFmedCaption_2022_train_000253	the amount of type i endoleak show a marked decrease
+ImageCLEFmedCaption_2022_train_000254	digital subtraction angiography after embolization show onyx thin arrow at the distal extremity of the feeding artery the pseudoaneurysmal sac and the proximal extremity of the venous component of the fistula
+ImageCLEFmedCaption_2022_train_000255	preoperative digital subtraction arteriography show the popliteal artery occlusion
+ImageCLEFmedCaption_2022_train_000256	transmission electron microscope tem image of graphene oxide go
+ImageCLEFmedCaption_2022_train_000257	leave ventriculography show the huge inferior left ventricular aneurysm an and the contrast enhance in the right ventricle arrow
+ImageCLEFmedCaption_2022_train_000258	magnify tem view of grain in ebm  sample showing dbelocation phase grain be inclined to the specimen surface average grain size be  nm  m
+ImageCLEFmedCaption_2022_train_000259	aortogram after coil embolization of the  intercostal artery note that the postcoil embolization aortoagram demonstrate no contrast opacification of the pseudoaneurysm luman a coil mass measure approximately    and a gentle regional concave deformity of the aorta imply that the true luman of the pseudoaneurysm be large than what opacifie originally
+ImageCLEFmedCaption_2022_train_000260	radiography show the curved and fractured catheter in the right femoral and iliac vein arrow
+ImageCLEFmedCaption_2022_train_000261	angiographic image of wirevalve angle during first unsuccessful attempt at deployment partial deployment of the corevalve be demonstrate with a relatively vertical angle that lean the corevalve against the less curvature of the aortic arch
+ImageCLEFmedCaption_2022_train_000262	pulmonary angiogram show absent pulmonary artery on the left side
+ImageCLEFmedCaption_2022_train_000263	celiac angiogram reveal multiple microaneurysm of the branch of the hepatic artery
+ImageCLEFmedCaption_2022_train_000264	right coronary artery baseline in  degree lao projection white arrow  atypical vessel in the interatrial septum
+ImageCLEFmedCaption_2022_train_000265	the nephrostogram show the dilated low moiety with an abrupt transition to nondilated ureter at the pelvoureteric junction arrow consbetent with pelvoureteric junction obstruction of the low moiety the upper moiety be nondilated
+ImageCLEFmedCaption_2022_train_000266	distal leave anterior descend perforation laboratory catheterization heart hospital doha qatar
+ImageCLEFmedCaption_2022_train_000267	cholangiogram perform during ercp demonstrate placement of  selfexpand stent graft small arrow within the common bile duct to exclude the cystic duct origin
+ImageCLEFmedCaption_2022_train_000268	false aneurysm of the right common iliac artery demonstrate
+ImageCLEFmedCaption_2022_train_000269	image of the thrombus in lad
+ImageCLEFmedCaption_2022_train_000270	type iii mimic atherosclerosis hazy or linear stenosis but lack of atherosclerotic change in other coronary artery
+ImageCLEFmedCaption_2022_train_000271	retrograde pyelography communication between the left upper urinary tract and the retroperitoneal lymphatic
+ImageCLEFmedCaption_2022_train_000272	standard arteriography with indwell stent on both side show no uif
+ImageCLEFmedCaption_2022_train_000273	leave nephrostogram show dilated pelvicalyceal system and proximal ureter gelatinous material positive for ketamine metabolite be aspirate from the nephrostomy
+ImageCLEFmedCaption_2022_train_000274	a combination of cologram and contrast in the urinary bladder exclude a fistula
+ImageCLEFmedCaption_2022_train_000275	fluoroscopic image of a wireguide balloon place at the level of the fistula create to drain the pancreatic fluid collection
+ImageCLEFmedCaption_2022_train_000276	nephrostogram show complete obstruction of the right ureter
+ImageCLEFmedCaption_2022_train_000277	femoral extraction of the broken left ventricular lead
+ImageCLEFmedCaption_2022_train_000278	absence of femoral vessel that be associate with omphalocele
+ImageCLEFmedCaption_2022_train_000279	postoperative ctangiography coil in the gastroduodenal artery white arrow and ptfe polytetrafluoroethylene prosthesis in the hepatic artery black arrow
+ImageCLEFmedCaption_2022_train_000280	selective angiogram of the left  artery show the spinal venous congestion induce by the shunt
+ImageCLEFmedCaption_2022_train_000281	irm squence show a dilatation of the upper ophthalmic vein flush
+ImageCLEFmedCaption_2022_train_000282	repeat right external carotid artery angiogram show faint opacification of the fistulous perimedullary vein
+ImageCLEFmedCaption_2022_train_000283	cover stent placement with internal iliac exclusion
+ImageCLEFmedCaption_2022_train_000284	retrograde angiogram in the mbts demonstrate multiple filling defect with near occlusion of the mbts white arrow black arrow represent area of rpa occlusionmbts modified blalocktaussig shunt
+ImageCLEFmedCaption_2022_train_000285	male with acsinferior wall mi post thrombolysis and post mi angina coronary angiographylateral angiographic view show both rca and lca originate from same ostium arrow
+ImageCLEFmedCaption_2022_train_000286	digital subtraction venography via the transjugular intrahepatic portosystemic shunt tip shunt demonstrate the confluence of the inferior mesenteric vein into the splenic vein
+ImageCLEFmedCaption_2022_train_000287	right vertebral artery angiogram show a large fenestration or unfused middle segment of the basilar artery the distal basilar artery be unfused and the superior cerebellar artery arise from the  segment of the posterior cerebral artery bilaterally a very prominent left posterior communicate artery fill the left supraclinoid ica and bilateral cavernous sinus via direct ccf in a retrograde fashion
+ImageCLEFmedCaption_2022_train_000288	occlude rca in first injection
+ImageCLEFmedCaption_2022_train_000289	the angiography show instent restenosis of primary stent
+ImageCLEFmedCaption_2022_train_000290	followup angiography be perform  month after treatment work unsubstracted view of right ica angiography show a no interval change after initial treatment
+ImageCLEFmedCaption_2022_train_000291	pre embolization magnify view show abnormal blush and fine vessel
+ImageCLEFmedCaption_2022_train_000292	cardiac catheterization perform in june  prior to undergo tmr reveal a coronary flow reserve of  in the left anterior descend coronary arterytmr transmyocardial revascularization
+ImageCLEFmedCaption_2022_train_000293	perfect radiological closure on phonation thus the least possibility of velopharyngeal insufficiency
+ImageCLEFmedCaption_2022_train_000294	fluoroscopy still image at the end of transcatheter coarctation stente for patient  show the deploy  cover optimus stent andratec gmbh koblenz germany in situ
+ImageCLEFmedCaption_2022_train_000295	the end of the procedure with a percutaneous internalexternal left biliary drainage and the native right plastic biliary endoprosthesis
+ImageCLEFmedCaption_2022_train_000296	coronary sinus subselective angiography by attain select subselection catheter
+ImageCLEFmedCaption_2022_train_000297	high frequency ultrasonography of the lateral thigh the hypoechoic ovoid mass fill with heterogenous hypoechoic material show posterior acoustic enhancement interpret as a cystic mass contain debris and hematoma in subcutaneous tissue above the fascia of the vastus laterali power doppler mode b and color doppler mode c show pulsatile arterial blood flow through a stalk between the cystic lesion and the vastus laterali
+ImageCLEFmedCaption_2022_train_000298	carotid angiogram show severe stenotic lesion in the right internal carotid arteryrao right anterior oblique
+ImageCLEFmedCaption_2022_train_000299	diagnostic heart catheterization perform  week after release of the vascular ring and reconstruction of the brachiocephalic trunk in a child with right aortic arch arrow show a normal inflow to the left subclavian artery from the reconstructed brachiocephalic trunk
+ImageCLEFmedCaption_2022_train_000300	coronary spasm produce subocclusive lesion in mid rca
+ImageCLEFmedCaption_2022_train_000301	coronary angiography with an ergonovine test show positive result on postoperative day
+ImageCLEFmedCaption_2022_train_000302	angiogram of right coronary artery  smooth artery without any atherosclerosis
+ImageCLEFmedCaption_2022_train_000303	right anterior oblique view show the fistulous vessel between the left anterior descend coronary artery and the pulmonary artery with multiple origin pathway and termination with small aneurysmal formation arrow
+ImageCLEFmedCaption_2022_train_000304	the course of rca in right atrioventricular groove and its continuation
+ImageCLEFmedCaption_2022_train_000305	post embolization
+ImageCLEFmedCaption_2022_train_000306	coronary angiography there be no significant stenosis in leave coronary artery right coronary artery could not be examine due to failure of catheter engagement lad leave anterior descend artery lcx leave circumflex artery
+ImageCLEFmedCaption_2022_train_000307	angiography show total occlusion of the three vessel with distal flow in dorsalis pedis artery from collateral
+ImageCLEFmedCaption_2022_train_000308	operate with a  f rotarex system
+ImageCLEFmedCaption_2022_train_000309	leave coronary artery in rao caudal projection show the final result after the pci of the distal lmca and proximal portion of the lad and lcx artery rao right anterior oblique pci percutaneous coronary intervention lmca leave main coronary artery lad leave anterior descend lcx leave circumflex
+ImageCLEFmedCaption_2022_train_000310	vascular retrieval snare in the distal part of microcatheter the snare arrow have be deploy out of the microcatheter just enough to open fully and retrieve back in the microcatheter
+ImageCLEFmedCaption_2022_train_000311	the right atrium and right ventricle lead implantation be perform via the persistent left superior vena cava
+ImageCLEFmedCaption_2022_train_000312	excellent angiographic result postangioplasty to the lad white arrow and the circumflex coronary artery black arrow
+ImageCLEFmedCaption_2022_train_000313	aortography show an interruption the so call linear tear of the normal contour of the thoracic aorta in the corresponding area a protrusion of the aortic lumen in the inner curve of the aorta be indicate the dberuption of the intima and beginning of a pseudoaneurysm the preoperative evaluation of imaging be finding indicate a traumatic rupture of aortic bethmus
+ImageCLEFmedCaption_2022_train_000314	an angiographic image of the fractured wire show an entrap guide wire in the left anterior descend the arrow show proximal tip of the remnant guide wire
+ImageCLEFmedCaption_2022_train_000315	dsa view of the right carotid artery
+ImageCLEFmedCaption_2022_train_000316	fluoroscopic image of a right knee demonstrate a punch blue arrow place in the dbetal aspect of the lateral femoral epiphysbe note that the punch be direct proximally away from the articular surface but still dbetal to the physbe a metallic selfretain retractor be present in the lateral incbeion
+ImageCLEFmedCaption_2022_train_000317	plug release and closure of the aortopulmonary collateral artery five minute aortogram control
+ImageCLEFmedCaption_2022_train_000318	leave subclavian arteriography in an atos patient in stress position demonstrate a totally occlude subclavian artery
+ImageCLEFmedCaption_2022_train_000319	aortic angiography show no bronchial compression by the aorta
+ImageCLEFmedCaption_2022_train_000320	an endhole  multipurpose catheter have be advance anterogradely from the femoral vein and through the duct into the descend aorta
+ImageCLEFmedCaption_2022_train_000321	fluoroscopic confirmatory image of placement of a tunnel  double lumen power hickman central venous catheter bard temple az with catheter tip float freely in persistent leave superior vena cava svc
+ImageCLEFmedCaption_2022_train_000322	lateral fluoroscopic view of the lumbosacral spine show the placement of the bilateral radiofrequency cannulae tip anterior to the  vertebral body
+ImageCLEFmedCaption_2022_train_000323	coronary angiography examination indicate intraluminal thrombus in the proximal third of the right coronary artery
+ImageCLEFmedCaption_2022_train_000324	clinical photograph show lump in right hypochondrium and epigastrium
+ImageCLEFmedCaption_2022_train_000325	both mullins sheath withdraw tip of sheath indicate by arrow expose both stent
+ImageCLEFmedCaption_2022_train_000326	angiografia seletiva da artria mesentrica superior
+ImageCLEFmedCaption_2022_train_000327	right  transforaminal epidural steroid injection under fluoroscopic guidance injection level be determine by symptom provocation with  normal saline at  and  level
+ImageCLEFmedCaption_2022_train_000328	angiography demonstrate left ventricular systole with mid and apical ballooning white arrow
+ImageCLEFmedCaption_2022_train_000329	early arterial phase dsa of the left ica demonstrate a davf supply by a dilated mta
+ImageCLEFmedCaption_2022_train_000330	leave internal cerebral artery in cerebral angiogram
+ImageCLEFmedCaption_2022_train_000331	final result of lcx angiography with unexpanded stent remain in the lm
+ImageCLEFmedCaption_2022_train_000332	digital subtraction angiography from the superior mesenteric artery show the distal side of the common hepatic artery via very fine pancreaticoduodenal arcade arrow head with the common hepatic artery balloon occlude arrow
+ImageCLEFmedCaption_2022_train_000333	right coronary artery lao  caudal
+ImageCLEFmedCaption_2022_train_000334	antegrade nephrostogram immediately after filter retrieval show luminal narrowing at site of limb penetration without evidence of extravasation
+ImageCLEFmedCaption_2022_train_000335	fluoroscopic image of an implant carillon device illustrate the coronary sinus position along the posterior mitral annulus tbesue plication be maintain between the great cardiac vein anchor and the coronary sinus anchor
+ImageCLEFmedCaption_2022_train_000336	aortic root angiogram post device deployment
+ImageCLEFmedCaption_2022_train_000337	coronary angiography reveal a  stenosis in the left anterior descend coronary artery and a subtotal occlusion  of the circumflex coronary artery
+ImageCLEFmedCaption_2022_train_000338	leave common carotid artery dsa reveal stagnant flow in the extracranial leave ica arrow relate to a complete occlusion of the downstream intracranial icadsa  digital subtraction angiography ica  internal carotid artery
+ImageCLEFmedCaption_2022_train_000339	anteroposterior view of the left upper extremity show successful revascularization of the left subclavian artery case
+ImageCLEFmedCaption_2022_train_000340	digital subtraction angiography after thrombin injection a very small remnant of psa appear arrow
+ImageCLEFmedCaption_2022_train_000341	completion angiography after right external iliac artery eia revascularization demonstrate good inflow into superficial femoral and profunda femoral artery and preserve patency of the internal iliac artery
+ImageCLEFmedCaption_2022_train_000342	fluoroscopy in the rao view show recording and ablation catheter position cscoronary sinus catheter his his bundle catheter ra right atrial catheter rv right ventricle catheter rfa radiofrequency ablation catheter
+ImageCLEFmedCaption_2022_train_000343	fluoroscopy in lao view show tva  lateral to cti tva  medial to cti and decapolar catheter in coronary sinus
+ImageCLEFmedCaption_2022_train_000344	angiographic view of the root of aorta show large leave coronary artery aneurysm faintly opacify distal leave anterior descend artery and prominent right coronary artery
+ImageCLEFmedCaption_2022_train_000345	leave coronary angiography show the presence of two coronary arteriovenous fistula caf originate from the left anterior descend lad and circumflex cx coronary artery drain into the pulmonary artery
+ImageCLEFmedCaption_2022_train_000346	coronary angiogram in the left anterior oblique lao cranial projection show that rudimentary nondominant right coronary artery originate from the right coronary cusp
+ImageCLEFmedCaption_2022_train_000347	cardiac catheterization demonstrate severe mid to distal lad occlusion
+ImageCLEFmedCaption_2022_train_000348	placement of an internalexternal biliary drain
+ImageCLEFmedCaption_2022_train_000349	postendovascular repair angiography show the absence of endoleakage
+ImageCLEFmedCaption_2022_train_000350	visualization of the aortic arch and thoracic aorta after stent placement
+ImageCLEFmedCaption_2022_train_000351	right coronary artery multilevel narrowing black arrow during diagnostic angiography
+ImageCLEFmedCaption_2022_train_000352	superior view of a bilateral sm on an axial  plane note its posterior insertion into the high signal intensity region at the posterior thalamus consistent with white matter male aged
+ImageCLEFmedCaption_2022_train_000353	lad cto with retrograde filling of distal lad from rpda
+ImageCLEFmedCaption_2022_train_000354	stent positioning
+ImageCLEFmedCaption_2022_train_000355	retrograde positioning of a  mm   endograft that adequately seal the descend thoracic aortic defect
+ImageCLEFmedCaption_2022_train_000356	deployment of the prosthesis under endoscopic control
+ImageCLEFmedCaption_2022_train_000357	incidence face craniale montrant un rseau coronaire droit domin et sain
+ImageCLEFmedCaption_2022_train_000358	ercp demonstrate a normal common bile duct common hepatic duct and right and leave hepatic duct without evidence of intraluminal filling defect
+ImageCLEFmedCaption_2022_train_000359	leave anterior oblique lao projection demonstrate fluoroscopic image of the flexcath sheath inferior to the aso
+ImageCLEFmedCaption_2022_train_000360	endoscopic retrograde cholangiopancreatography show the location of the stent in the pancreatic duct the stent be place dbetally to the fbetula as close as possible to the leakage point
+ImageCLEFmedCaption_2022_train_000361	postdeployment angiography show the normally position asymmetrical septal occluder device across the ventricular septal defect with minimal flow across the device
+ImageCLEFmedCaption_2022_train_000362	occlusion of the heavily calcified midlad and epicardial connection from the marginal branch to the apical lad
+ImageCLEFmedCaption_2022_train_000363	intraoperative cholangiography image
+ImageCLEFmedCaption_2022_train_000364	case  a a  electrocardiogram with an aggressive inferiorlateral er pattern during hypothermia treatment red arrow b the electrocardiogram be completely normalize after adminbetration of beoproterenol infusion
+ImageCLEFmedCaption_2022_train_000365	ercp demonstrate bile leak follow liver laceration the patient be manage conservatively with endoscopic stent placement
+ImageCLEFmedCaption_2022_train_000366	the enteroscope be introduce into the overtube across the stenosis and into the jejunum
+ImageCLEFmedCaption_2022_train_000367	case  a a  electrocardiogram with an aggressive inferiorlateral er pattern during hypothermia treatment red arrow b the electrocardiogram be completely normalize after adminbetration of beoproterenol infusion
+ImageCLEFmedCaption_2022_train_000368	cardiac catheterization after stent placement show return of the blood flow in the lad territory
+ImageCLEFmedCaption_2022_train_000369	postoperative coronary angiography show the successful occlusion of the coronarybronchial artery fistula use surgical clip arrow lcx leave circumflex artery
+ImageCLEFmedCaption_2022_train_000370	postdilatation of thoracic stent graft
+ImageCLEFmedCaption_2022_train_000371	fluoroscopic image of a balloon dilation of the fistula tract to tamponade the bleeding patient a
+ImageCLEFmedCaption_2022_train_000372	upper gastrointestinal endoscopy reveal a submucosal tumor with a normal mucosa
+ImageCLEFmedCaption_2022_train_000373	visualize dissection after the second contrast injection
+ImageCLEFmedCaption_2022_train_000374	male with massive hemoptysis and recurrent intractable hemoptysis catheter angiography dilated tortuous bronchial and intercostal artery arise from a rightside aortic arch
+ImageCLEFmedCaption_2022_train_000375	sixmonth followup angiography show complete aneurysm occlusion with the preservation of antegrade flow of the posterior circulation
+ImageCLEFmedCaption_2022_train_000376	the first gastrocystostomy be perform during the first endoscopic procedure the highpressure balloon with which the stoma be widen to the diameter of  mm be vbeible on the fluoroscopic image two guidewire be also vbeible in the lumen of the necrotic collection
+ImageCLEFmedCaption_2022_train_000377	angiographic followup show the patency of graft and robust flow to the middle cerebral artery territory
+ImageCLEFmedCaption_2022_train_000378	ercp cholangiogram with a  gallstone in the middle third of the common bile duct intrahepatic segmental stricture and dilatation
+ImageCLEFmedCaption_2022_train_000379	the guide wire white arrow direct into the gastric lumen and up the esophagus under fluoroscopic control
+ImageCLEFmedCaption_2022_train_000380	fistula be successfully close while preserve patency of the aorta and right common internal and external iliac artery
+ImageCLEFmedCaption_2022_train_000381	angiogram postendovascular intervention a covered stent in the right common iliac artery
+ImageCLEFmedCaption_2022_train_000382	coronary angiography with normal coronary angiographic finding
+ImageCLEFmedCaption_2022_train_000383	diagnostic angiogram leave anterior obliquecranial view demonstrate the lad and diagonal branch
+ImageCLEFmedCaption_2022_train_000384	angiogram show aberrant artery white supply sequester lobe black da descend aorta
+ImageCLEFmedCaption_2022_train_000385	inoue balloon position in the left ventricular cavity over the inoue wire before mitral valvuloplasty
+ImageCLEFmedCaption_2022_train_000386	leave internal carotid artery angiogram in lateral projection show direct ccf with drainage into sigmoid sinus short arrow superior ophthalmic vein long arrow and inferior ophthalmic vein arrowhead and dilated subfrontal pial vein open arrow
+ImageCLEFmedCaption_2022_train_000387	less dimeter of the ceflic vein white set in relay to the size of the cateter and its perpendicular insert in the axilar vein black set
+ImageCLEFmedCaption_2022_train_000388	coronary angiogram depict the left main stenosis
+ImageCLEFmedCaption_2022_train_000389	vortx coil boston scientific be place from the curve of anterior tibial artery to its communication with venous system
+ImageCLEFmedCaption_2022_train_000390	rf needles insert at ala of the sacrum and lateral to   foramen other needles be place similarly
+ImageCLEFmedCaption_2022_train_000391	coronary angiogram show origin of the left coronary artery lca and right coronary artery rca from the right coronary cusp
+ImageCLEFmedCaption_2022_train_000392	displace polyetheretherketone cage into retropharyngeal space and endotracheal tube while attempt intubation through laryngeal mask airway
+ImageCLEFmedCaption_2022_train_000393	upper gi series show difficulty in gastric emptying and insufficient distention at the pylorus and duodenum arrow due to the encircle pancreatic tissue
+ImageCLEFmedCaption_2022_train_000394	superior venogram show tight stenosis of svc arrow
+ImageCLEFmedCaption_2022_train_000395	mrcp show prominent intrahepatic biliary ductal dilatation proximal to the location of the previously note hilar mass
+ImageCLEFmedCaption_2022_train_000396	cholangiography show biliary stricture involve in the hilar region and middle of common bile duct
+ImageCLEFmedCaption_2022_train_000397	angiogram from the celiac axis show pseudoaneurysm at left gastric artery and active extravasation at gastroduodenal artery stump the common hepatic artery proper can not be identify
+ImageCLEFmedCaption_2022_train_000398	the patients cerebral angiogram one year after coil
+ImageCLEFmedCaption_2022_train_000399	ercp image demonstrate the stricture nonfilling portion and dilated duct above
+ImageCLEFmedCaption_2022_train_000400	after leave anterior descend artery lad recanalization severe diffuse disease in the proximal and mid lad and severe spasm in its distal third
+ImageCLEFmedCaption_2022_train_000401	selective angiography of sma show pseudoaneurysm occlusion of short part of sma and patent sma below pseudoaneurysm a inferior pancreaticoduodenal artery b inferior pancreaticoduodenal artery branch c short neck of artery fill pseudoaneurysm and d distal part of sma
+ImageCLEFmedCaption_2022_train_000402	digital subtraction angiography of popliteal artery with cystic adventitial disease in focus
+ImageCLEFmedCaption_2022_train_000403	permanent coil embolization of the proximal external carotid artery immediately proximal to the pseudoaneurysm use platinum detachable coil
+ImageCLEFmedCaption_2022_train_000404	follow embolization of multiple anterior cerebral artery feed branch with particle gel foam and coil there be mark reduction in size and flow dynamic of the arteriovenous malformation arrowright indicate the patients right side
+ImageCLEFmedCaption_2022_train_000405	a  woman with sjogren syndrome videofluorographic swallow study demonstrate atonic esophagus with rubberhose appearance and associate achalasia
+ImageCLEFmedCaption_2022_train_000406	coronary angiogram lao caudal view short leave main artery with localized dilatation in proximal lad leave circumflex artery ostium show no significant lesion
+ImageCLEFmedCaption_2022_train_000407	spasm of the ostial lmca
+ImageCLEFmedCaption_2022_train_000408	leave ventriculogram demonstrate anterioapical left ventricular aneurysm
+ImageCLEFmedCaption_2022_train_000409	jejunumbiliary reflux due to elevated loop pressure percutaneous transhepatic cholangiography
+ImageCLEFmedCaption_2022_train_000410	solder paste suspension at the nozzle
+ImageCLEFmedCaption_2022_train_000411	nellix balloon inflate to open the stent polymer  be inject in each limb
+ImageCLEFmedCaption_2022_train_000412	successful dilation and deployment of stent
+ImageCLEFmedCaption_2022_train_000413	coronary angiography rao   view show big lm thrombus with normal lad lcx and rim artery rao right anterior oblique lm leave main lad leave anterior descend lcx leave circumflex rim ramus intermedius artery
+ImageCLEFmedCaption_2022_train_000414	fluoroscopic image of endoscopic retrograde cholangiopancreatography through the deploy lumenappose metal stent
+ImageCLEFmedCaption_2022_train_000415	postoperative percutaneous transhepatic cholangiogram show patency of the new bilioenteric anastomosis
+ImageCLEFmedCaption_2022_train_000416	angiogram after stent placement show trap instent restenosis
+ImageCLEFmedCaption_2022_train_000417	normalsized rca be see supply the pdarcaright coronary artery pdaposterior descend artery
+ImageCLEFmedCaption_2022_train_000418	new covered stent deployment at the orifice of the transplant renal artery arrow with sacrifice of the transplanted kidney which be remove surgically some day later
+ImageCLEFmedCaption_2022_train_000419	selective injection in the left internal carotid artery on digital subtraction angiography show the internal carotid artery terminate into the ophthalmic artery with no contribution to cerebral vasculature
+ImageCLEFmedCaption_2022_train_000420	perioperative radioscopy note the anatomical reduction of the clavicular fracture and the normal coracoclavicular distance
+ImageCLEFmedCaption_2022_train_000421	angiogram demonstrate the large collateral artery arise from descend aorta near the coeliac trunk
+ImageCLEFmedCaption_2022_train_000422	plaque at left anterior descend artery and borderline lesion ostial circumflex artery
+ImageCLEFmedCaption_2022_train_000423	digital subtraction angiogram of the left common carotid artery oblique view clearly demonstrate severe stenosis arrow in the left  portion
+ImageCLEFmedCaption_2022_train_000424	diagnosis of coronary tortuosity
+ImageCLEFmedCaption_2022_train_000425	digital subtraction angiogram in a  woman with uncontrolled hypertension demonstrate contiguous relative stenosbe alternate with fusiform aneurysmal dilatation of the right renal artery due to fibromuscular dysplasia resemble a string of bead inset fibromuscular dysplasia be characterize by fibrous or muscular hyperplasia in one or more layer of the renal artery wall produce thbe appearance
+ImageCLEFmedCaption_2022_train_000426	lao caudal view of rca origin of the lad artery from the ostium of the rca can be see along with severe stenosis of the proximal portion of the lad artery
+ImageCLEFmedCaption_2022_train_000427	leave external carotid arteriography show a highflow avf from the parietal branch of the sta thin arrow to the stv wide arrow and an aneurysm on the frontal branch of the sta arrowhead
+ImageCLEFmedCaption_2022_train_000428	segmented aneurysm of the left coronary artery lca and right coronary artery rca in angiogram arrow
+ImageCLEFmedCaption_2022_train_000429	a renal arteriography prior to segmental embolization b passage of contrast medium from calyx to renal pelvbe be observe
+ImageCLEFmedCaption_2022_train_000430	first stent deploy successfully in the proximal portion of the left anterior descend artery dotted arrow the second stent be entrap and float in the left coronary sinus solid arrow
+ImageCLEFmedCaption_2022_train_000431	pretreatment xray show ureteral stone in the renal pelvi close to the loop of nephrostomy
+ImageCLEFmedCaption_2022_train_000432	right internal mammary artery anastomose to leave anterior descend artery
+ImageCLEFmedCaption_2022_train_000433	rf catheter advance distally until resistance encounter
+ImageCLEFmedCaption_2022_train_000434	fluoroscopic view of the position of the needle in disc space
+ImageCLEFmedCaption_2022_train_000435	coronary angiography after admission reveal long  diameter stenosis within the prestented right coronary artery rca which be determine as the culprit lesion
+ImageCLEFmedCaption_2022_train_000436	nephrostogram
+ImageCLEFmedCaption_2022_train_000437	arteriography of hepatic artery with implant stent graft
+ImageCLEFmedCaption_2022_train_000438	late phase show the most distal and the large aneurysm contain thrombus
+ImageCLEFmedCaption_2022_train_000439	coronary angiography image  right anterior oblique angle obtain at the sixmonth followup show  diameter stenosis in the second segment of the obtuse marginal branch arrow
+ImageCLEFmedCaption_2022_train_000440	catheter angiogram show  stenosis of the right middle cerebral artery reprint from holmstedt etal  with permission from elsevier
+ImageCLEFmedCaption_2022_train_000441	sialographynonobstructive finding of the right parotid duct by sialography
+ImageCLEFmedCaption_2022_train_000442	inflate catheter balloon white arrow see as fill defect within renal pelvis
+ImageCLEFmedCaption_2022_train_000443	angiographic image show endovascular coil embolization of a proximal branch superior mesenteric artery aneurysm
+ImageCLEFmedCaption_2022_train_000444	fluoroscopic image with injection of contrast medium the contrast medium be spread around the anchor arrowhead however no contrast medium be note in the intrathecal space the broken intrathecal fragment be show as a ushape loop arrow
+ImageCLEFmedCaption_2022_train_000445	anterior view right internal carotid artery injection through the microcatheter single arrow be perform beyond the occlusionthere be a tandem occlusion of the dbetal internal carotid artery double arrow involve the intracranial internal carotid artery segmentright designate the patients right side
+ImageCLEFmedCaption_2022_train_000446	transjugular portography in a patient bleeding from gastric varix note that balloon tamponade do not suppress fundal varix fill
+ImageCLEFmedCaption_2022_train_000447	coronary angiography show multiple coronary artery microfistulae arise from first diagonal branch of lad empty into the left ventricle blue circle
+ImageCLEFmedCaption_2022_train_000448	fluoroscopic view of a  g endoscopic ultrasoundguide aspiration needle cook endoscopy that be use to puncture the gallbladder from the duodenal bulb use a linear echoendoscope  olympus
+ImageCLEFmedCaption_2022_train_000449	bennett spur
+ImageCLEFmedCaption_2022_train_000450	frontal view of a right internal carotid catheter angiogram show the puff of smoke appearance due to innumerable enlarge basal perforator overshadow the attenuate anterior and middle cerebral artery also collateral from the external carotid artery be enlarge to retrogradely fill the peripheral branch of the middle and anterior cerebral artery
+ImageCLEFmedCaption_2022_train_000451	fluoroscopic examination at the time of cystoscopy demonstrate extraanatomic location of jj stent
+ImageCLEFmedCaption_2022_train_000452	cholangiography show the cholangiectasis
+ImageCLEFmedCaption_2022_train_000453	cine show the radiofrequency ablation catheter in the right free wall position a his catheter and a coronary sinus catheter introduce through a left superior vena cava
+ImageCLEFmedCaption_2022_train_000454	a digital subtraction angiogram reveal a saccular aneurysm on the anterior communicate artery
+ImageCLEFmedCaption_2022_train_000455	coronary angiography leave coronary artery semiselective
+ImageCLEFmedCaption_2022_train_000456	right hepatic artery after embolization
+ImageCLEFmedCaption_2022_train_000457	stent place in the common iliac vein civ and external iliac vein eiv
+ImageCLEFmedCaption_2022_train_000458	anteroposterior view of the digital subtraction angiogram reveal total occlusion of the distal third of the basilar artery without opacification of the posterior cerebral and superior cerebellar artery bilaterally
+ImageCLEFmedCaption_2022_train_000459	final result after aortoostial stenting of a vein graft show significant protrusion of the stent mark as    into the aortic lumen
+ImageCLEFmedCaption_2022_train_000460	post retrieval cholangiogram confirm no biliary tree injury or fistulous communication with vessel
+ImageCLEFmedCaption_2022_train_000461	cover stent position
+ImageCLEFmedCaption_2022_train_000462	a more medial entry point have correct the neck shaft angle but some lateral translation of the proximal fragment have occur
+ImageCLEFmedCaption_2022_train_000463	preembolization arrow point to the bleeding in the pubic branch of the external iliac artery
+ImageCLEFmedCaption_2022_train_000464	angiogram show mobile fractured instent stenosis in systole
+ImageCLEFmedCaption_2022_train_000465	leave anterior oblique view of coronary angiography show an anomalous right coronary artery rca having originate from the mid part of the left anterior descend coronary artery lad
+ImageCLEFmedCaption_2022_train_000466	xray right anterior oblique rao  cranial  final aortic angiography aortic bioprosthesis in correct position aortic regurgitation trace tee probe in transesophageal position pigtail catheter position in aortic root
+ImageCLEFmedCaption_2022_train_000467	the selective caf angiography show the fistula drain from proximal rca to pa indicate by the white arrow the fistula divide into some branch and meet again cafcoronary artery fistula papulmonary artery rcaright coronary artery
+ImageCLEFmedCaption_2022_train_000468	angiography show spider collateral
+ImageCLEFmedCaption_2022_train_000469	sinonasal hemangiopericytoma after embolisation with onyx right maxillary artery embolise with onyx
+ImageCLEFmedCaption_2022_train_000470	pelvic angiogram show a dilated and tortuous right uterine artery
+ImageCLEFmedCaption_2022_train_000471	multivessel spontaneous coronary artery dissection scad in a postpartum female present with acute coronary syndrome acs arrow denote area of dissection image courtesy of steven cohen md
+ImageCLEFmedCaption_2022_train_000472	coronary angiography coronary vasospasm proximal right coronary artery
+ImageCLEFmedCaption_2022_train_000473	rvot measurement
+ImageCLEFmedCaption_2022_train_000474	example of intraoperative measurement of the neck shaft angle nsa for correct measurement and correct anteversion the growth plate of the great trochanter must be fully visible white arrow the preoperative nsa be measure on an image intensifier and correction be adjust to the measure value
+ImageCLEFmedCaption_2022_train_000475	fluoroscopy show kink of the guidewire at the periclavicular area
+ImageCLEFmedCaption_2022_train_000476	coronary angiogram leave anterior oblique view of lad during intervention with bare metal stent in the proximal lad
+ImageCLEFmedCaption_2022_train_000477	right anterior oblique projection of a pericardiogram use to guide the epicardial mapping a groove between the aorta and superior vena cava b pulmonary artery c leave atrial appendage d right atrial appendage e inferior wall of the leave ventricle f anterior wall of the leave ventricle
+ImageCLEFmedCaption_2022_train_000478	preparation for stent and ivc placementbilateral iliac vein sheath with wire be place in the preparation for stent placement a transjugular venous catheter be place in the left renal vein as a reference for stent and filter placement the venogram demonstrate reflux into the left gonadal vein red arrowivc inferior vena cava
+ImageCLEFmedCaption_2022_train_000479	angiographic image show the drainage of the left superior vena cava into the right atrium
+ImageCLEFmedCaption_2022_train_000480	renal denervation of the native left kidney the arrow point the tip of the radiofrequency ablation catheter filling of the renal artery with contrastagent be show however no filling of intrarenal parenchymal vessel be vbeualized
+ImageCLEFmedCaption_2022_train_000481	second coronary angiography  day later rao cranial view show extensive leave anterior descend dissection start from midproximal segment involve diagonal branch timi flow
+ImageCLEFmedCaption_2022_train_000482	final enjection of right renal artery with no residual stenosis
+ImageCLEFmedCaption_2022_train_000483	repeat aortogram show no aortic mass and improve coronary perfusion with bare metal wire in situ in the left coronary artery
+ImageCLEFmedCaption_2022_train_000484	endoscopic retrograde cholangiopancreaticogram show sclerosing cholangitis
+ImageCLEFmedCaption_2022_train_000485	the snare be keep tighten and then it be push toward catheter tip in order to release fibrin no port dbeplacement be vbeible
+ImageCLEFmedCaption_2022_train_000486	the guidewire be push to the distal segment of the circumflex artery by a small underinflate balloon catheter and it be isolate from the circulation by a  mm   mm bare metal stent implant over the wire
+ImageCLEFmedCaption_2022_train_000487	case  the well possible oblique projection be not sufficient to demonstrate the exact origin of the great radicular artery arrow point to the possible site of the fbetula
+ImageCLEFmedCaption_2022_train_000488	immunohistochemical staining reveal that the tumor markedly express cluster of differentiation  magnification
+ImageCLEFmedCaption_2022_train_000489	leave carothyde arthriography show at arthrial time a carothydecavernal fistule with early opacification of cavernal sinus
+ImageCLEFmedCaption_2022_train_000490	followup angiography after one year show avm be obliterate without a residual avm or any other abnormal vessel
+ImageCLEFmedCaption_2022_train_000491	final result in lao view show timi iii flow in anomalous left circumflex artery from right sinus after stente with sirolimus drug eluting stent
+ImageCLEFmedCaption_2022_train_000492	traction of second lams delivery catheter with distal flange deploy inside small bowel arrowhead into transgastric lams arrow to perform lams in lams lams lumenappose metal stent
+ImageCLEFmedCaption_2022_train_000493	catheterization study show lsvc opening to cs
+ImageCLEFmedCaption_2022_train_000494	rgu of a penobulbar stricture that be nearly obliterative
+ImageCLEFmedCaption_2022_train_000495	size procedure use size balloon catheter waist of the balloon clearly indicate the stretch diameter of the atrial septal defect
+ImageCLEFmedCaption_2022_train_000496	digital subtraction angiography image from case  the elongation with kingke in internal carotid artery be remarkable the external carotid artery eca be also push by the aneurysm sac dica  distal part of internal carotid artery pica  proximal part of internal carotid artery cca  common carotid artery r  right lat  lateral
+ImageCLEFmedCaption_2022_train_000497	angiogram demonstrate unique reverse debranching of the aortic arch with leave subclavian artery to leave carotid artery bypass and leave to right carotid to carotid bypass there be retrograde flow in the innominate artery
+ImageCLEFmedCaption_2022_train_000498	ductus arteriosus in tofpa arbee proximally from the underside of the aortic arch insert onto the proximal part of the lpa significant stenosbe of the lpa be present the tip of a jr catheter pass transvenously into the aorta via the vsd be engage in the ampulla for adequate vbeualization
+ImageCLEFmedCaption_2022_train_000499	aortic rupture grade iv  active bleeding
+ImageCLEFmedCaption_2022_train_000500	dsa in ap  and lateral  projection show an approximately    mm leave pica aneurysm black arrow locate at the level of the caudal loop tonsillomedullary segment the aneurysm appear to have both intracranial  and extracranial  component in figure
+ImageCLEFmedCaption_2022_train_000501	coronary angiography of rca  a significant stenosis in its midportion white arrow rca right coronary artery
+ImageCLEFmedCaption_2022_train_000502	totally occlude lad
+ImageCLEFmedCaption_2022_train_000503	leave coronary angiogram ap cranial  view  systolic frame show narrowing arrow in the leave anterior descend coronary artery suggestive of myocardial bridge the segment just distal to the bridge be show a linear translucency suggestive of a recanalised segment or heal coronary dissection arrowhead show borders of lv aneurysm
+ImageCLEFmedCaption_2022_train_000504	common femoral artery occlusion find by vascular angiography the dbetance between common femoral artery and anterior edge of acetabulum be nearly equal to the diameter of acetabular nail red arrow indicate the injury site
+ImageCLEFmedCaption_2022_train_000505	coil embolization of kissing aneurysm be perform with dualstent assistance in doublebarrel configuration use two closedcell stent black arrow enterprise stent codman  shurtleff raynham ma usa white arrow solitaire ab stent covidien dublin ireland
+ImageCLEFmedCaption_2022_train_000506	case  a a  electrocardiogram with an aggressive inferiorlateral er pattern during hypothermia treatment red arrow b the electrocardiogram be completely normalize after adminbetration of beoproterenol infusion
+ImageCLEFmedCaption_2022_train_000507	angiography after successful stenting show widen leave main ostium
+ImageCLEFmedCaption_2022_train_000508	fluoroscopic image of descend aortogram in lateral view show moderate size pda
+ImageCLEFmedCaption_2022_train_000509	immediate postoperative radiograph show the occipitocervical fusion
+ImageCLEFmedCaption_2022_train_000510	arteriograms pre and post eembolization c arteriogram preembolization show a tangle of vascular structure arrow feed by the left uterine artery d arteriogram postembolization show the absence of fill of the occluded left uterine artery and vascular malformation arrow
+ImageCLEFmedCaption_2022_train_000511	angiography with contrast in the right hepatic artery after all bleed source embolization
+ImageCLEFmedCaption_2022_train_000512	pulmonary arteriogram show shunt
+ImageCLEFmedCaption_2022_train_000513	cerebral angiography image showing leave anterior and middle cerebral artery stenosis red arrow
+ImageCLEFmedCaption_2022_train_000514	preoperative angiogram of the right upper extremity reveal attenuation of contrast flow at the level of the subclavian vein secondary to thrombosis
+ImageCLEFmedCaption_2022_train_000515	coronary angiography lao   view show proximal rca stent deployment
+ImageCLEFmedCaption_2022_train_000516	thoracic spine anteroposterior xray show the retain epidural catheter arrow
+ImageCLEFmedCaption_2022_train_000517	aortic angiogram in the lateral projection show a patent arterial duct
+ImageCLEFmedCaption_2022_train_000518	endoscopic retrograde cholangiopancreatography show obstruction of the pancreatic duct
+ImageCLEFmedCaption_2022_train_000519	leave vertebral angiogram show a dbesect aneurysm the left posterior inferior cerebellar artery be vbeualized at the dbetal portion of the aneurysm arrow
+ImageCLEFmedCaption_2022_train_000520	catheter venography image show an inferior vena cava filter black arrow distal to the large filling defect tumor thrombus white arrow in the inferior vena cava
+ImageCLEFmedCaption_2022_train_000521	selective angiography of the left uterine artery red circle use the steerable microcatheter blue arrow demonstrate mark tortuosity compatible with the history of fibroid
+ImageCLEFmedCaption_2022_train_000522	relief of the stenosis after intracoronary ntg
+ImageCLEFmedCaption_2022_train_000523	the final stent be place with  overlap with only approximately a centimeter of stent deploy proximally for exact precbeion know as the turtlehead red arrow
+ImageCLEFmedCaption_2022_train_000524	transforaminal epidural lidocaine injection with kambins triangle approach before peld a small amount of contrast be use to confirm epidural spread and nerve root
+ImageCLEFmedCaption_2022_train_000525	coronary angiography show a dissection plane throughout the midright coronary artery
+ImageCLEFmedCaption_2022_train_000526	selective splenic arteriography demonstrate pseudoaneurysm black arrow to a branch supply the low pole of the spleen
+ImageCLEFmedCaption_2022_train_000527	flexible ureteroscopy be use to remove the stone yellow arrow point to the stone and red arrow point to the position of the access sheath tip
+ImageCLEFmedCaption_2022_train_000528	follow up angiogram after successful intervention timi  flow have be restore immediately after air aspiration use a thrombus aspiration catheter no residual air bubble be observe
+ImageCLEFmedCaption_2022_train_000529	the opening of the multilayer flow modulator
+ImageCLEFmedCaption_2022_train_000530	fluoroscopic image of a double pigtail stent deploy into the pancreatic fluid collection
+ImageCLEFmedCaption_2022_train_000531	pelvic arteriogram with arrow pointing to extraluminal contrast extravasation in the right pelvis
+ImageCLEFmedCaption_2022_train_000532	ap head arteriography ccf before treatment with endovascular approach
+ImageCLEFmedCaption_2022_train_000533	fluoroscopic image show intravascular injection of the nonionic contrast medium iohexol omnipaque
+ImageCLEFmedCaption_2022_train_000534	angiography show narrow long segment narrow of the left pulmonary artery arrow
+ImageCLEFmedCaption_2022_train_000535	angiography of the right pulmonary demonstrate a large arteriovenous malformation with multiple feeder vessel
+ImageCLEFmedCaption_2022_train_000536	case  a a  electrocardiogram with an aggressive inferiorlateral er pattern during hypothermia treatment red arrow b the electrocardiogram be completely normalize after adminbetration of beoproterenol infusion
+ImageCLEFmedCaption_2022_train_000537	angiography of the left internal carotid artery show abnormal anterior drainage into the left superior red arrow and inferior blue arrow ophthalmic vein
+ImageCLEFmedCaption_2022_train_000538	digital subtraction angiography  presence of pseudoaneurysm of    mm in the dissection region and critical stenosis of internal carotid artery down to  mm
+ImageCLEFmedCaption_2022_train_000539	coronary angiogram after balloon dilatation show no residual stenosis and relatively good distal flow
+ImageCLEFmedCaption_2022_train_000540	angiographic image of the right superior vena cava an inferior vena cava ivc catheter run through the malformed inferior vena cava and right atrium and enter the right superior vena cava
+ImageCLEFmedCaption_2022_train_000541	case  telemetry tracing ventricular fibrillation precede by a ventricular extrasystole
+ImageCLEFmedCaption_2022_train_000542	preoperative magnetic resonance image from a patient with right hemifacial spasm arrow indicate the posterior inferior cerebellar artery that be compress the root exit zone of the facial nerve
+ImageCLEFmedCaption_2022_train_000543	preoperative coronary angiography show proximal lad lesion
+ImageCLEFmedCaption_2022_train_000544	angiography the right posterior hepatic artery be dberupted at the hepatic hilum a red arrow and there be a collateral artery a yellow arrow from the right anterior hepatic artery to the right posterior hepatic artery cha common hepatic artery gda gastroduodenal artery lha leave hepatic artery raha right posterior hepatic artery rpha right posterior hepatic artery
+ImageCLEFmedCaption_2022_train_000545	lateral projection angiographic image from a right internal carotid artery injection show a large arteriovenous malformation nidus arrow feed by multiple enlarge feeding anterior and middle cerebral artery branchright indicate the patients right side
+ImageCLEFmedCaption_2022_train_000546	angiogram show successful coil embolization of the feeding vessel through celiac axis with no residual leak from the aneurysm
+ImageCLEFmedCaption_2022_train_000547	leave coronary arteriography in the right anterior oblique projection a complete outoff of the left anterior descend coronary artery at the proximal segment be see arrow no other lesion be observe
+ImageCLEFmedCaption_2022_train_000548	arteriogram show the low right extremity healthy extremity and the low left extremity revascularized extremity the arrow indicate the superficial right femoral artery left picture and the left deep femoral artery right picture
+ImageCLEFmedCaption_2022_train_000549	portal venography image demonstrate right portal vein branch white arrow that be moderately dbeplace and dbetort by the mass that be faintly enhance black arrow
+ImageCLEFmedCaption_2022_train_000550	ercp image of the gallstone arrow prior to removal
+ImageCLEFmedCaption_2022_train_000551	angiography of the right popliteal artery the picture depict a polycyclic popliteal aneurysm with smooth margin in  segment without active sign of leakage outside the aneurysm cavity black arrow point to popliteal aneurysm
+ImageCLEFmedCaption_2022_train_000552	postembolisation celiac angiography show successful coiling of both aneurysm
+ImageCLEFmedCaption_2022_train_000553	patent saphenous venous graft to posterior descend artery
+ImageCLEFmedCaption_2022_train_000554	inferior vena cava filter with trap thrombithe inferior vena cava filter be leave in place after the extracorporeal membrane oxygenation run due to the trap thrombi in the filter despite adequate anticoagulation treatment during extracorporeal membrane oxygenation
+ImageCLEFmedCaption_2022_train_000555	dsa final control show complete closure of favd by onyx
+ImageCLEFmedCaption_2022_train_000556	leave cca angiogram show good dilatation of the left proximal cervical ica after carotid angioplasty and stenting cas
+ImageCLEFmedCaption_2022_train_000557	graft angiography demonstrate a tortuous left internal mammary artery lima graft with flow go to the coronary sinus form an aortocoronary arteriovenous fistula
+ImageCLEFmedCaption_2022_train_000558	barium esophagram  year after initial presentation
+ImageCLEFmedCaption_2022_train_000559	leave ventricular angiogram in leave anterior obliquecranial  degree show discrete sub aortic membrane
+ImageCLEFmedCaption_2022_train_000560	radiological control of the guide direction up to the brachial artery black arrow indicate the straight path of the radial artery in the forearm
+ImageCLEFmedCaption_2022_train_000561	coronary angiography perform during anterolateral myocardial infarction after unsuccessful lead extraction show perforation of the mid leave anterior descend coronary artery lad by a screw perforation of the old shock lead helix new shock lead also visible caudal view icd  implantable cardioverterdefibrillator rcx  right circumflex coronary artery
+ImageCLEFmedCaption_2022_train_000562	areteriobiliary fistula fistula between r hepatic artery and common hepatic duct
+ImageCLEFmedCaption_2022_train_000563	angiography reveal no apparent pelvic vascular damage
+ImageCLEFmedCaption_2022_train_000564	digital subtraction angiography depict an ectatic dbetal aorta short common iliac artery with a right common iliac artery pseudoaneurysm a silhouette of the hsk be see with patent renal artery
+ImageCLEFmedCaption_2022_train_000565	radioscopy only one leaflet of the bileaflet valve open
+ImageCLEFmedCaption_2022_train_000566	male with multiple swelling on the left side of the face phlebography of the lesion in the temple region show fill of the entire lesion and drain to the regional area arrow
+ImageCLEFmedCaption_2022_train_000567	occlude om branch visible stent strut
+ImageCLEFmedCaption_2022_train_000568	leave anterior descend artery show lesion in proximal segment
+ImageCLEFmedCaption_2022_train_000569	stenosis of the left anterior descend lad artery just below the site of its anastomosis with the internal mammary artery arrow  cra
+ImageCLEFmedCaption_2022_train_000570	arch aortogram depict thrombosed left subclavian artery arrow distal to the left vertebral artery arrowhead
+ImageCLEFmedCaption_2022_train_000571	lmca arise from right sinus reveal type ii lad and critical stenosis in lcx in ap cranial view
+ImageCLEFmedCaption_2022_train_000572	rgp finding
+ImageCLEFmedCaption_2022_train_000573	one year later patient  undergo coronary angiography which verify the patent leave coronary artery
+ImageCLEFmedCaption_2022_train_000574	fluoroscopic image of the guidewire leave in place after removal of the echoendoscope to permit a rendezvous
+ImageCLEFmedCaption_2022_train_000575	lateral view of right internal carotid artery angiography perform on june   small true saccular aneurysm white arrow of the right posterior communicate artery  mm   mm size neck diameter of  mm posterosuperiorly direct and fetal pattern of ipsilateral posterior communicate artery
+ImageCLEFmedCaption_2022_train_000576	case  telemetry tracing ventricular fibrillation precede by a ventricular extrasystole
+ImageCLEFmedCaption_2022_train_000577	endoscopic retrograde cholangiopancreatography show a bismuth type iiia stricture arrow
+ImageCLEFmedCaption_2022_train_000578	post lcx stente
+ImageCLEFmedCaption_2022_train_000579	entry point for the discogram with optimize view for the  discthe articular element of the inferior level bisect the endplate of the level above in an ideal view
+ImageCLEFmedCaption_2022_train_000580	anteroposterior fluoroscopic image of esophogram show extravasated contrast material tracking along the right side of the neck arrow
+ImageCLEFmedCaption_2022_train_000581	the overtube now lie along the less curvature of the stomach on previous attempt without an overtube in place the stent follow the wire along the great curvature make it practically impossible to place the stent across the previous stent
+ImageCLEFmedCaption_2022_train_000582	rca show nearly  of proximal segment stenosis
+ImageCLEFmedCaption_2022_train_000583	image coronarographique dissection de la partie proximale de liva
+ImageCLEFmedCaption_2022_train_000584	coronary angiogram showing leave anterior descend coronary artery in the right anterior oblique view lad be long wrap around the apex and continue as the posterior descend artery there be an eccentric plaque with thrombus at the apex where it continue as pda
+ImageCLEFmedCaption_2022_train_000585	wallstent
+ImageCLEFmedCaption_2022_train_000586	right coronary angiogram with normal left coronary anatomy with no obstruct atheroma
+ImageCLEFmedCaption_2022_train_000587	cholangiography of the right hepatic ductal system demonstrate a highgrade residual stenosis at the junction of the posterior sectoral duct anterior sectoral duct and leave bile duct
+ImageCLEFmedCaption_2022_train_000588	transmesenteric portal venography show patent superior mesenteric and splenic vein large left gastric varicose vein portal cavernoma and patent intrahepatic portal branch
+ImageCLEFmedCaption_2022_train_000589	right coronary artery rca be normal in its origin and course
+ImageCLEFmedCaption_2022_train_000590	occlusion of left internal carotid artery
+ImageCLEFmedCaption_2022_train_000591	case  a  electrocardiogram with inferolateral early repolarization pattern with jpoint elevation and qrs slur after hypothermia treatment red arrow
+ImageCLEFmedCaption_2022_train_000592	the filter hook migrate into the caval wall in venography
+ImageCLEFmedCaption_2022_train_000593	intraoperative fluoroscopy image that show failure of the guidewire to pass at the level of the steinstrasse
+ImageCLEFmedCaption_2022_train_000594	coronary angiography show the  left anterior descend artery lad stenosis and the circumflex artery cx thrombosis
+ImageCLEFmedCaption_2022_train_000595	angiography image show splenic artery pseudoaneurysm
+ImageCLEFmedCaption_2022_train_000596	an optease retrievable vena cava filter be place in the inferior vena cava via the right femoral vein under digital subtraction angiography and a venogram show total occlusion of the left iliac vein
+ImageCLEFmedCaption_2022_train_000597	post embolization with  m pva particle selective intercostal trunk catheter injection be remarkable for contrast stasbe in the parent artery with total nonopacification of the pericavitary inflammatory change and the rassmussens aneurysm
+ImageCLEFmedCaption_2022_train_000598	still image of the first vfss retropharyngeal soft tissue be severely swollen arrow with a shift airway arrowhead anteriorly
+ImageCLEFmedCaption_2022_train_000599	cerebral angiogram  early arterial phase ap internal carotid injection  reveal coil  mycotic aneurysm and parent vessel
+ImageCLEFmedCaption_2022_train_000600	angiogram show stenosis of the supraclinoid ica and mca consistent with moya moya disease
+ImageCLEFmedCaption_2022_train_000601	endoscopic retrograde cholangiopancreatography show intra and extrahepatic bileduct stricture and dilation
+ImageCLEFmedCaption_2022_train_000602	final position of the leadless pacemaker arrow
+ImageCLEFmedCaption_2022_train_000603	the fluoroscopy image of descend aortography to show the structure of patent ductus arteriosus with typical funnel morphology
+ImageCLEFmedCaption_2022_train_000604	selective right hepatic venogram show bullet embolus within the right hepatic vein
+ImageCLEFmedCaption_2022_train_000605	coronary angiography show flowlimit coronary stenosbe in the midladflowlimit coronary stenosbe be designate by the black arrow
+ImageCLEFmedCaption_2022_train_000606	bridgetranshilar stenting with uncovered metallic stent black arrow delimit distal and proximal extremity in right and leave bile duct respectively and leave fcsems white arrow delimit distal and proximal extremity in leave bile duct and stomach
+ImageCLEFmedCaption_2022_train_000607	immediately posttreatment work unsubstracted view of the left vertebral artery angiogram show optimal deployment and no contrast dye filling in aneurysm sac after ystente coiling
+ImageCLEFmedCaption_2022_train_000608	endoscopic retrograde cholangiopancreatography endoscopic retrograde cholangiopancreatography show no abnormality in the main pancreatic duct
+ImageCLEFmedCaption_2022_train_000609	mixed gev drainage in  man with type  gev delay portal venogram perform during tip creation reveal gev outflow via azygous venous system white arrowhead and leave gastrorenal shunt black arrowhead
+ImageCLEFmedCaption_2022_train_000610	retrograde ureterography show the passage of contrast from the right ureter to the uterus
+ImageCLEFmedCaption_2022_train_000611	fluoroscopic image dilation of the pancreaticogastrostomy tract with  mm balloon
+ImageCLEFmedCaption_2022_train_000612	significant constriction in the proximal middle lad segment
+ImageCLEFmedCaption_2022_train_000613	multiple right coronary artery rca stent as label visualize during postcabg cardiac catheterization while on ecmo
+ImageCLEFmedCaption_2022_train_000614	approximately  stenosis of the proximalleave anterior descend coronary artery as reveal by coronary angiography
+ImageCLEFmedCaption_2022_train_000615	venous phase of cerebral angiography  after admission an almost complete lack of filling of the internal cerebral vein the great vein of galen and the straight sinus be demonstrate
+ImageCLEFmedCaption_2022_train_000616	retrograde pyelogram reveal a stenotic twocentimeter proximal segment of ureter locate just distal to the ureteropelvic junction with hydronephrosis and dilation of the proximal ureter
+ImageCLEFmedCaption_2022_train_000617	anteriorposterior cranial view show the widely dilated proximal portion of the second diagonal branch after percutaneous coronary intervention
+ImageCLEFmedCaption_2022_train_000618	native image of temporary balloon occlusion within the double stent white arrow show balloon inflation to achieve decrease inflow into the pseudoaneurysm
+ImageCLEFmedCaption_2022_train_000619	leave renal angiography and embolisation coil see note also the accessory renal artery occlude with occlusive glue glubran not visualise
+ImageCLEFmedCaption_2022_train_000620	leave main coronary artery  occlusion in case
+ImageCLEFmedCaption_2022_train_000621	fluoroscopic image in anteroposterior view show open coronary stent orifice enface in the middle of the occluder movie
+ImageCLEFmedCaption_2022_train_000622	still from coronary angiogram record during pci in  from patient in whom angina recur  year post cabg the occlusion of the rca be report on coronary angiography in
+ImageCLEFmedCaption_2022_train_000623	severe proximal stenosis of the left anterior descend coronary artery arrow
+ImageCLEFmedCaption_2022_train_000624	fluoroscopic view of transhepatic puncture of segment  hepatic duct with linear echoendoscope through the distal esophagus with a  needle
+ImageCLEFmedCaption_2022_train_000625	radiograph of kinked catheter that can cause mechanical obstruction to blood flowsource courtesy of the atlas of dialysis vascular access by dr vacchharajani
+ImageCLEFmedCaption_2022_train_000626	digital subtraction angiogram of right anterior circulation postoperative
+ImageCLEFmedCaption_2022_train_000627	the nectarhf neural cardiac therapy for heart failure implant location the lead be place around the cervical vagus nerve and then tunnel across the clavicle and connect to the pulse generator which be locate in a pectoral pocket
+ImageCLEFmedCaption_2022_train_000628	superior vena cava and subclavian chronic total occlusion
+ImageCLEFmedCaption_2022_train_000629	cerebral angiography demonstrate a wide necked aneurysm at the termination of the ica
+ImageCLEFmedCaption_2022_train_000630	dominant right coronary artery deliver collateral to a chronically occlude leave anterior descend artery and diagonal territory without significant stenosis
+ImageCLEFmedCaption_2022_train_000631	right pulmonary arteriogram demonstrate a large thrombus occlude the rpa white arrow with normal distal branch patency pulmonary venous return can be see return normally to the right sided pulmonary veinsrpa right pulmonary artery
+ImageCLEFmedCaption_2022_train_000632	basket with the gallstone capture in the middle third of the common bile duct
+ImageCLEFmedCaption_2022_train_000633	coronary angiogram show  stenosis in the left anterior descend artery and  stenosis in left circumflex artery
+ImageCLEFmedCaption_2022_train_000634	venogram of the inferior vena cava postlysis resolution of the stenosis note at level of diaphragm after exploratory laparotomy inferior vena cava venolysis and division of the diaphragmatic constriction
+ImageCLEFmedCaption_2022_train_000635	arteriogram at the time of presentation show markedly increase vascularity and uptake of contrast in the tumor
+ImageCLEFmedCaption_2022_train_000636	follow up digital subtraction angiography perform  month after hemorrhage confirm no contrast stagnation or abnormal vascular lesion with patent stente basilar artery and superior cerebellar artery
+ImageCLEFmedCaption_2022_train_000637	magnification of fluorescein angiography where intraluminal microparticle can be evidence
+ImageCLEFmedCaption_2022_train_000638	arteriogram after embolization
+ImageCLEFmedCaption_2022_train_000639	combine movement of clockwise rotation tip deflection and endoscope push to remove the device with the stone
+ImageCLEFmedCaption_2022_train_000640	b internal carotid angiogram ap view show fill of right and leave cs through intercavernous communication white arrow
+ImageCLEFmedCaption_2022_train_000641	calcific deposit at the lateral aspect of the foot
+ImageCLEFmedCaption_2022_train_000642	balloon sizing of atrial septal defect under fluoroscopy
+ImageCLEFmedCaption_2022_train_000643	dsa in ap  and oblique  projection show an    fusiform left pica aneurysm black arrow at the tonsillomedullary segment caudal loop
+ImageCLEFmedCaption_2022_train_000644	percutaneous decompression of both leave and right biliary duct be successful a false route be create to the duodenum through partial opening of the leave duct clip from the guidewire
+ImageCLEFmedCaption_2022_train_000645	ercp image post stent with no fistulous connection
+ImageCLEFmedCaption_2022_train_000646	pancreatic duct dehiscence with extravasation of contrast
+ImageCLEFmedCaption_2022_train_000647	endoleak resolution follow onyx and coil embolisation
+ImageCLEFmedCaption_2022_train_000648	final control digital subtraction angiography show exclusion of the pseudoaneurysm and absence of contrast leakage with patency of the superior and collateral branch
+ImageCLEFmedCaption_2022_train_000649	complete exclusion of popliteal aneurysm follow endovascular stenting
+ImageCLEFmedCaption_2022_train_000650	pancreatogram after removal of    pigtail plastic stent in place for  month with resolution of the pancreatic colonic fistula
+ImageCLEFmedCaption_2022_train_000651	spontaneous occlusion of the left anterior descend coronary artery lao  cranial  accompany by stsegment elevation
+ImageCLEFmedCaption_2022_train_000652	angiography from the left gastric artery show vessel transection arrow
+ImageCLEFmedCaption_2022_train_000653	digital nonsubtracted image of tongue parenchimography during sclerotization with open mouth with distractor and cannula white arrow place in haemangioma black arrow
+ImageCLEFmedCaption_2022_train_000654	aortic root angiogram show ruptured sinus of valsalva to leave ventricle
+ImageCLEFmedCaption_2022_train_000655	case  superior mesenteric venogram post thrombectomy note restoration of patency to smv
+ImageCLEFmedCaption_2022_train_000656	fluoroscopy of the catheter setup  fourpole epcatheter in the right ventricle  sixtyfourpole highresolution basket catheter in the left ventricle via antegrade transseptal approach  tenpole epcatheter in the coronary sinus  right ventricular lead of the icd
+ImageCLEFmedCaption_2022_train_000657	enlarge ovarian cyst  litre note the liver edge and diaphragm on the left
+ImageCLEFmedCaption_2022_train_000658	both stent be place prior to deployment
+ImageCLEFmedCaption_2022_train_000659	cardiac catheterization show native right coronary artery rca aneurysm yellow dash line
+ImageCLEFmedCaption_2022_train_000660	multiple coronarycameral fistula to the leave ventricle arise from the leave anterior descend and leave circumflex artery with opacification of the leave ventricle
+ImageCLEFmedCaption_2022_train_000661	leave anterior inferior cerebellar artery hyperplasia and cochlear artery hyperplasia selective angiography mri
+ImageCLEFmedCaption_2022_train_000662	an example of mycotic aneurysm of the right coronary artery subsequent surgical therapy involve resection of the involve arterial segment and placement of a venous bypass graft
+ImageCLEFmedCaption_2022_train_000663	digital subtraction angiography by selective catheterization of the celiac trunk in pa show the pseudoaneurysm in the inferior branch of the splenic artery and intense tortuosity of the splenic artery
+ImageCLEFmedCaption_2022_train_000664	two week after chemoembolization selection of the  intercostal artery note that a laterally project outpouching of stagnant contrast be note consistent with pseudoaneurysm the opacify portion of the pseudoaneurysm measure about  in size with a  neck
+ImageCLEFmedCaption_2022_train_000665	after treatment two segmental renal artery both the anterior and the posterior branch be injure the arrow point to the embolization site
+ImageCLEFmedCaption_2022_train_000666	conventional ev drainage in  man with grade  ev delay portal venogram perform during tip creation demonstrate ev outflow via azygous venous system arrowhead
+ImageCLEFmedCaption_2022_train_000667	thbe be a selective injection of the left coronary system in the ap caudal projection demonstrate a large left main coronary artery free of obstructive narrowing a mild proximal circumflex stenosbe and very minor dbeease of both ongoing circumflex and lad retrograde filling of a small calibre lita graft can be see
+ImageCLEFmedCaption_2022_train_000668	aortic arch and descend thoracic aorta visualize by cta with contrast preplacement of stent
+ImageCLEFmedCaption_2022_train_000669	angiographic view show ulcerated leave main artery dissection with propagation down leave anterior descend and spiral dissection down circumflex artery arrow inline leave ventricular assist device lvad camera angle right anterior oblique  caudal
+ImageCLEFmedCaption_2022_train_000670	leave anterior oblique of the common coronary artery and its branch with critical disease the proximal rca and middistal anomalous lcx
+ImageCLEFmedCaption_2022_train_000671	rca arbee from lcs rca be originate from an orifice locate anterior to lmca ostium in the lcs and have interarterial course before reach the right atrioventricular groove rca right coronary artery lcs leave coronary sinus mlca leave main coronary artery
+ImageCLEFmedCaption_2022_train_000672	unusual indication for avp use an angiogram with a judkins right catheter in the main pulmonary artery of a patient with a prior history of glenn surgery as the pulmonary valve be not ligate during surgery the antegrade flow cause a significant reversal of flow in the superior vena cava avp type i be implant successfully at the pulmonary valve with complete closure of the antegrade flow
+ImageCLEFmedCaption_2022_train_000673	retrograde ureteropyelogram show opacification of all the upper urinary tract with extravasation of the contrast material in the ureteropelvic junction arrow
+ImageCLEFmedCaption_2022_train_000674	transcatheter arterial embolization be perform upon the proximal leave gastric artery with no further evidence of fill or the aneurysm
+ImageCLEFmedCaption_2022_train_000675	percutaneous transmitral commissurotomy show inflated balloon across the mitral valve
+ImageCLEFmedCaption_2022_train_000676	coronary angiography review of case  show that mild spasm remain in the middle of the circumflex artery
+ImageCLEFmedCaption_2022_train_000677	severe coronary artery stenosis detect on cardiac angiography
+ImageCLEFmedCaption_2022_train_000678	descend thoracic angiogram follow deployment of a  mm postinfarction vsd device show a small residual shunt which subsequently disappear on followup
+ImageCLEFmedCaption_2022_train_000679	guidewire withdrawal after tornus advancement beyond chronic total occlusion cto segment after thbe step a floppy wire be advance through the tornus and the microcatheter be move back in clockwbee rotation
+ImageCLEFmedCaption_2022_train_000680	lateral radiograph show  cephalad and  caudal spread the anteroposterior epidural space be fill with contrast the needle be locate the middle portion of the foramen
+ImageCLEFmedCaption_2022_train_000681	case  a a  electrocardiogram with an aggressive inferiorlateral er pattern during hypothermia treatment red arrow b the electrocardiogram be completely normalize after adminbetration of beoproterenol infusion
+ImageCLEFmedCaption_2022_train_000682	deployment of   cm double pigtail plastic biliary stent boston scientific through the metal stent into the gallbladder
+ImageCLEFmedCaption_2022_train_000683	the patients right coronary angiography
+ImageCLEFmedCaption_2022_train_000684	retrograde pyelogram demonstrate complete separation of the distal right ureter from the uvj
+ImageCLEFmedCaption_2022_train_000685	example of difficult depth measurement in thbe case the projection have be modify after implant so the device appear coaxial however the annulus be no long coaxial two aortic cusp be see at different level on the septal side arrow make difficult the localization of the hinge point and therefore the measurement depth of implant
+ImageCLEFmedCaption_2022_train_000686	introducer remove leave sheath well in la
+ImageCLEFmedCaption_2022_train_000687	critical lesion in major om
+ImageCLEFmedCaption_2022_train_000688	angiogram show occlude proximal leave subclavian artery
+ImageCLEFmedCaption_2022_train_000689	middle cerebral artery aneurysm angiogram anteroposterior view aca anterior cerebral artery ica internal carotid artery mca middle cerebral artery aneurysm be see in the trifurcation of mca
+ImageCLEFmedCaption_2022_train_000690	retrograde pyelogram showing in initial difficulty in pass guidewire in patient with left ureterovaginal fistula
+ImageCLEFmedCaption_2022_train_000691	coronary angiography reveal a linear filing defect with an overlying thrombus in the first obtuse marginal branch of the circumflex coronary artery white arrow suggestive of scad
+ImageCLEFmedCaption_2022_train_000692	leave coronary angiogram show possible dissection of left main coronary artery with a pesudoaneurysm formation white arrow
+ImageCLEFmedCaption_2022_train_000693	aortic root angiography during balloon valvuloplasty with  postalignment to left coronary ostia with no risk of coronary occlusion
+ImageCLEFmedCaption_2022_train_000694	see the bertola tweezer anchor in the transverse process to radioscopically check the level to be treat before deperiostization
+ImageCLEFmedCaption_2022_train_000695	coronary angiography lao   view show good result after rca stenting
+ImageCLEFmedCaption_2022_train_000696	final coronary angiography it show complete obliteration of the coronary artery fistula
+ImageCLEFmedCaption_2022_train_000697	leave coronary angiogram demonstrate coronary dissection in the left anterior descend artery arrow
+ImageCLEFmedCaption_2022_train_000698	left carotid angiography on day  right anterior oblique view reveal a dissecting aneurysm of the anterior wall of left internal carotid artery
+ImageCLEFmedCaption_2022_train_000699	leave coronary angiogram
+ImageCLEFmedCaption_2022_train_000700	femoral insertion of the mpfl mpflmedial patellofemoral ligament
+ImageCLEFmedCaption_2022_train_000701	subclavian venogram show the intact left subclavian vein
+ImageCLEFmedCaption_2022_train_000702	an optimal result be achieve follow the deployment of a supera stent
+ImageCLEFmedCaption_2022_train_000703	leave anterior oblique lao position of the right coronary arteryabbreviation caud caudal
+ImageCLEFmedCaption_2022_train_000704	angiography from the celiac trunk after coil of the gastrohepatic trunk no long show contrast extravasation
+ImageCLEFmedCaption_2022_train_000705	right caudal angiographic view show the distal occlusion of the left anterior descend artery by a thrombus arrow
+ImageCLEFmedCaption_2022_train_000706	angiographic image at the completion of treatment no endoleak be observe there be no contrast enhancement in the location of the aneurysm
+ImageCLEFmedCaption_2022_train_000707	fluoroscopic image of ap view show multiple angulation of the delivery sheath with duct occluder
+ImageCLEFmedCaption_2022_train_000708	leave adrenal venography the left adrenal vein arrow merge with the inferior phrenic vein the common trunk empty into the left renal vein arrowhead in thbe venogram the left adrenal be hypertrophied due to a hormonesecrete nodule
+ImageCLEFmedCaption_2022_train_000709	magnify anteroposterior fluoroscopic view of the liver demonstrate the balloon inflate during radiofrequency ablation prong deployment
+ImageCLEFmedCaption_2022_train_000710	xray rao  prior to tricuspid valve repair use the mitraclip system  steerable guide and clip delivery system place in right atrium clip arm close tee probe in transesophageal position acurate ta aortic bioprosthesis implant
+ImageCLEFmedCaption_2022_train_000711	angiogram of the limb show cutoff of flow in the common femoral artery
+ImageCLEFmedCaption_2022_train_000712	renal angiogram single renal artery white arrow with no ostial stenosis both renal artery show distal pruning consistent with ckd
+ImageCLEFmedCaption_2022_train_000713	case  telemetry tracing ventricular fibrillation precede by a ventricular extrasystole
+ImageCLEFmedCaption_2022_train_000714	pacing wire at the right ventricular outflow tract
+ImageCLEFmedCaption_2022_train_000715	man with scrotal avm one month follow the second embolization procedure there be markedly increase flow through the avm and right scrotal vasculature arrow
+ImageCLEFmedCaption_2022_train_000716	azygos vein loop around the right hilum black arrow to drain into the svc the sro sheath be vbeible in the loop white arrow
+ImageCLEFmedCaption_2022_train_000717	angiogram show devascularization of the left kidney superior pole
+ImageCLEFmedCaption_2022_train_000718	double pigtail biliary stent within the cbd after basket removal
+ImageCLEFmedCaption_2022_train_000719	catheter closure of abernathy malformation with a duct occluder device from femoral venous access result in improve saturation
+ImageCLEFmedCaption_2022_train_000720	right coronary artery poststent placementright coronary artery with  flow arrow after mechanical thrombus aspiration and placement of another stent distal to the previously place stent
+ImageCLEFmedCaption_2022_train_000721	cystic duct remnant coronal mrcp image show cystic duct remnant arrowhead postcholecystectomy also note the crossover anomaly of right posterior duct open into the left hepatic duct arrow anomalous pancreaticobiliary junction be also see curved arrow
+ImageCLEFmedCaption_2022_train_000722	axillary vein puncture the arrow indicate the puncture site
+ImageCLEFmedCaption_2022_train_000723	cholangiogram demonstrate an isolated mild midhepatic duct stricture arrow with moderate upstream dilation and multiple filling defect within the left intrahepatic duct
+ImageCLEFmedCaption_2022_train_000724	resolution of the stricture
+ImageCLEFmedCaption_2022_train_000725	the figure show an angiogram
+ImageCLEFmedCaption_2022_train_000726	thrombotic occlusion of femoral vein patient in prone position
+ImageCLEFmedCaption_2022_train_000727	coronary angiography image of saphenous vein graftanswer p
+ImageCLEFmedCaption_2022_train_000728	subclavian vein occlusion after previous im  plantation of the crtp  venography after introduction of the vascular sheath
+ImageCLEFmedCaption_2022_train_000729	mm   mm dilation balloon inflate across the pulmonary valve frontal projection with cranial angulation
+ImageCLEFmedCaption_2022_train_000730	angiographic control follow embolization show complete occlusion of the shunt arrow
+ImageCLEFmedCaption_2022_train_000731	after aspiration thrombectomy antegrade flow be fully restorerao right anterior oblique
+ImageCLEFmedCaption_2022_train_000732	coronary angiogram in ap cranial view after stente show good result with complete exclusion of aneurysm
+ImageCLEFmedCaption_2022_train_000733	abdominal xray after fluoroscopic guide dobhoff tube placement small amount of contrast inject to confirm dobhoff tube see arrow positioning in the fourth portion of the duodenum
+ImageCLEFmedCaption_2022_train_000734	a left anterior oblique view demonstrate double right coronary artery
+ImageCLEFmedCaption_2022_train_000735	use  platinum coil to embolize the distal side of the aneurysm arrow and a  mm amplazer vascular plug  to embolize the proximal side of the aneurysm arrowhead result in complete embolization of the giant hepatic aneurysm with isolation technique
+ImageCLEFmedCaption_2022_train_000736	coronary angiography in the anteroposterior projection with cranial angulation demonstrate severe long stenosbe up to  at the midportion of the left anterior descend artery lad an anomalous vessel be see originate from the midportion of the lad shortly after the second septal perforator within the dbeeased segment which follow the course of the right coronary artery arrow
+ImageCLEFmedCaption_2022_train_000738	leave main caa locate distally near the bifurcation into the left anterior descend artery and the left circumflex artery
+ImageCLEFmedCaption_2022_train_000739	angiography show occlude lad white arrow and severe lesion in the circumflex coronary artery black arrow
+ImageCLEFmedCaption_2022_train_000740	guide wire and obturator insertion
+ImageCLEFmedCaption_2022_train_000741	infraneural in transforaminal lateral view at the right  nerve root
+ImageCLEFmedCaption_2022_train_000742	total occlusion of the horizontal portion of the left middle cerebral artery be clear on emergent cerebral angiogram
+ImageCLEFmedCaption_2022_train_000743	multiple coronary artery microfistula arise from the leave anterior descend coronary artery and leave circumflex artery
+ImageCLEFmedCaption_2022_train_000744	the angle between the two force vector of the two nickeltitanium closed coil spring be control to be
+ImageCLEFmedCaption_2022_train_000745	thbe be a selective injection of the lita graft in the ap demonstrate it to be of very small calibre and functionally occlude dbetally
+ImageCLEFmedCaption_2022_train_000746	endoscopic retrograde cholangiopancreatography image demonstrate choledocholithiasis arrow indicate opacification indicative of obstruction consistent with stone in the biliary tree
+ImageCLEFmedCaption_2022_train_000747	intraoperative digital subtraction angiography intraoperative digital subtraction angiography demonstrate the stent graft position around the aneurysm
+ImageCLEFmedCaption_2022_train_000748	subclavian artery angiography in rao  degree obliquity the wallgraft have be successfully deploy the right internal mammary artery and the right vertebral artery be occlude the right common carotid artery be patent and normal in appearance
+ImageCLEFmedCaption_2022_train_000749	repeat image demonstrate resolution of the stenosis in the obtuse marginal
+ImageCLEFmedCaption_2022_train_000750	a  glidewire be manipulate from the biloma access point through the common bile duct and into the small bowel a  bentson wire be in place from the right intrahepatic bile duct access point into the biloma
+ImageCLEFmedCaption_2022_train_000751	selective angiogram of the right uterine artery with the catheter tip in the proximal right uterine artery clearly show the pseudoaneurysm with active contrast extravasation arrow indicative of active bleed
+ImageCLEFmedCaption_2022_train_000752	rotational atherectomy of the left anterior descend artery white arrow  rotablator drill
+ImageCLEFmedCaption_2022_train_000753	coronary angiogram in the right caudal view show the left coronary artery tree with a circumflex artery
+ImageCLEFmedCaption_2022_train_000754	renal arteriography show stenosis   of the left renal artery
+ImageCLEFmedCaption_2022_train_000755	coronary angiographic appearance of the right coronary artery
+ImageCLEFmedCaption_2022_train_000756	normal leave coronary artery
+ImageCLEFmedCaption_2022_train_000757	insertion of the cannula and the endoscope afterwards
+ImageCLEFmedCaption_2022_train_000758	after first bare metal stent implantation follow prolong balloon inflation diminbeh but ongoing leakage be see
+ImageCLEFmedCaption_2022_train_000759	secondtime angiography show successful vascular embolization of the lesion site with an intravascular coil
+ImageCLEFmedCaption_2022_train_000760	atrial non capture on day  of lead revision
+ImageCLEFmedCaption_2022_train_000761	superior rectal venogram obtain through a microcatheter show tortuous giant rectal varix with hepatofugal flow
+ImageCLEFmedCaption_2022_train_000762	coronary angiogram of the left main in the anteriorposterior projection show the fistula the detail of pathology be not obvious
+ImageCLEFmedCaption_2022_train_000763	atherosclerotic plaque in leave anterior descend artery
+ImageCLEFmedCaption_2022_train_000764	leave heart catheterization mild luminal irregularity of the leave anterior descend artery and leave circumflex artery not require percutaneous intervention no evidence of aneurysm
+ImageCLEFmedCaption_2022_train_000765	child after treatment and stone clearance
+ImageCLEFmedCaption_2022_train_000766	about  of proximal right coronary artery occlusion before balloon inflation
+ImageCLEFmedCaption_2022_train_000767	anteroposterior fluoroscopic view show a catheter insert in the affected neural foramen the contrast dye fully escape via lateral runoff through the neural foramen along the neural sheath after proper adhesiolysis
+ImageCLEFmedCaption_2022_train_000768	a  male with hbetory of aortic valve replacement and giant aortic root coronary angiogram in leave anterior oblique cranial view show proper engagement of leave main ostium with  french multipurpose catheter telescope through  french amplatz leave  catheter leave main be clearly see branch into leave anterior descend and leave circumflex artery
+ImageCLEFmedCaption_2022_train_000769	medial branch block in patient with  compression fracture vertebroplasty state the  joint be the medial branch of the  and  dorsal ramus anteroposterior radiography of contrast medium inject onto the target point for  and  medial branch block the needle tip point to the contrast medium at the site for  and  medial branch block on the  and  superior articular process p pedicle
+ImageCLEFmedCaption_2022_train_000770	aortography rightside aortic arch pulmonary artery with contrast deliver through the patent botals duct cardiac catheterization be perform after birth in order to confirm the heart defect
+ImageCLEFmedCaption_2022_train_000771	once the tip of the needle reach the spg under direct visualisation of the guidance the mixture be inject
+ImageCLEFmedCaption_2022_train_000772	result after ptastenting of the left renal artery
+ImageCLEFmedCaption_2022_train_000773	angiography of the right lumbar artery
+ImageCLEFmedCaption_2022_train_000774	puncture procedure
+ImageCLEFmedCaption_2022_train_000775	size balloon at  of lao
+ImageCLEFmedCaption_2022_train_000776	work cannula place in the  intervertebral space
+ImageCLEFmedCaption_2022_train_000777	postembolization there be minimal residual extravasation from the area supply by the intracranial circulation ophthalmic artery with nonfilling of the pseudoaneurysm and complete occlusion of the left internal maxillary artery
+ImageCLEFmedCaption_2022_train_000778	after rheolytic thrombectomy the venogram reveal a partial recanalization of the left brachiocephalic vein and peripheral superior vena cava
+ImageCLEFmedCaption_2022_train_000779	coronary angiography reveal an aneurysm of the right coronary artery with tight stenosis of the posterolateral branch
+ImageCLEFmedCaption_2022_train_000780	lateral fluoroscopy after interventional closure of asd contrast medium be inject in the ivc show the right atrium amplatzer occluder in position of former asd brace from aortic root asterbek t transesophageal probe ivc inferior vena cava ra right atrium
+ImageCLEFmedCaption_2022_train_000781	followthrough show a small right lung supply by the native pulmonary artery
+ImageCLEFmedCaption_2022_train_000782	inferior vena cavography show hepatic vein occlusion and obstruction of inferior vena cava
+ImageCLEFmedCaption_2022_train_000783	selective angiogram before treatment
+ImageCLEFmedCaption_2022_train_000784	restoration of  flow in left coronary artery
+ImageCLEFmedCaption_2022_train_000785	postoperative ugi show slight narrowing at midbody of stomach arrow
+ImageCLEFmedCaption_2022_train_000786	endoscopic retrograde cholangiogram the common bile duct partially obscure by endoscopy scope be dilated with a large filling defect black arrow the cystic duct be dilated and tortuous with a filling defect in the mid portion white arrow the central hepatic duct be prominent
+ImageCLEFmedCaption_2022_train_000787	slow progression of the contrast medium in the distal tract of the left anterior descend coronary artery arrow
+ImageCLEFmedCaption_2022_train_000788	follow coil embolization double arrow of the rightsuperior cerebellar arterybranch harbor the dysplastic aneurysm there be slow retrograde filling of the dbetal right superior cerebellar artery and aneurysm from right sided collateral arrowleft indicate the patients left side
+ImageCLEFmedCaption_2022_train_000789	superselective angiogram of the upper transverse segment upper  segment of the uterine artery
+ImageCLEFmedCaption_2022_train_000790	leave main coronary artery with left anterior descend lad and obtuse marginal om artery in anteroposterior caudal view
+ImageCLEFmedCaption_2022_train_000791	leave coronary coronarography reveal late opacification of the stenose subclavian artery by lima reflow
+ImageCLEFmedCaption_2022_train_000792	inflation of drugeluting stent resolute endeavour
+ImageCLEFmedCaption_2022_train_000793	baseline coronary angiography show severe luminal stenosis of the mid left circumflex artery head arrow
+ImageCLEFmedCaption_2022_train_000794	initial coronary angiogram show big filling defect thrombus in the proximal lad
+ImageCLEFmedCaption_2022_train_000795	abnormality at the bifurcation of the common hepatic duct extend into the proximal right and leave hepatic duct with evidence of highgrade stenosis
+ImageCLEFmedCaption_2022_train_000796	selective catheter venogram reveal brisk active extravasation from a left lumbar vein into the left retroperitoneal hematoma arrow
+ImageCLEFmedCaption_2022_train_000797	postvenoplasty venography demonstrate restoration of flow throughout the pv sv and smv
+ImageCLEFmedCaption_2022_train_000798	leave brachial artery with a short focal tapered occlusion with likely dissection and collateral muscular branch
+ImageCLEFmedCaption_2022_train_000799	endobronchial applicator with metal marker inside use for treatment planning tumour localize in left main and upper bronchus xray picture
+ImageCLEFmedCaption_2022_train_000800	rao right anterior oblique view of lad and lcx artery opacify the lmca and its origin from the main pulmonary artery
+ImageCLEFmedCaption_2022_train_000801	leave renal angiography show focal dissection of left main renal artery with dilated false lumen also note diffuse narrowing of low pole branch vessel secondary to dissection extend into the low pole branch result in an infarct see on magnetic resonance imaging
+ImageCLEFmedCaption_2022_train_000803	contrast injection after tip placement show widely patent portosystemic shunt with good flow to the right atrium and diminutive filling of the intrahepatic portal vein branch also note the glue cast inject to the needle tract in order to prevent bleed to the abdominal cavity fill with ascite    mm    dpi
+ImageCLEFmedCaption_2022_train_000804	postoperative coronary angiography demonstrate luminal stenosis of the proximal leave anterior descend artery arrow which be suspect to have be press by the basal stitch during root reimplantation
+ImageCLEFmedCaption_2022_train_000805	ercp show calculus in common bile duct
+ImageCLEFmedCaption_2022_train_000806	venous phase of left internal carotid artery digital subtraction angiogram show irregularity and indistinct pattern of deep vein suggestive of vasculitiref  figure be use from folia neuropathologica with consent
+ImageCLEFmedCaption_2022_train_000807	right false coronary lumen area coronary angiography reveal a right coronary false lumen area cause by aortic dissect aneurysm extend to the right coronary ostium
+ImageCLEFmedCaption_2022_train_000808	preoperative aortography
+ImageCLEFmedCaption_2022_train_000809	coronary angiography image
+ImageCLEFmedCaption_2022_train_000810	selective angiogram in the collateral artery follow successful occlusion with micro coil
+ImageCLEFmedCaption_2022_train_000811	coronary angiogram leave anterior oblique view of lad prior to percutaneous coronary intervention show dissection and clot in the proximal lad black arrow
+ImageCLEFmedCaption_2022_train_000812	the des be deploy in the lima with a balloon place in the sa the balloon will be inflate follow stent deployment prior to conclude with final kbesing angioplasty des drugelute stent lima leave internal mammary artery sa subclavian artery
+ImageCLEFmedCaption_2022_train_000813	uncommon igv drainage in  woman with type  igv leave gastric venogram perform after tip creation illustrate outflow via azygous venous system arrowhead
+ImageCLEFmedCaption_2022_train_000814	the implant prosthetic aortic valve
+ImageCLEFmedCaption_2022_train_000815	infrared image show distribution of myelinated retinal nerve fiber lesion and their border clearly
+ImageCLEFmedCaption_2022_train_000816	lateral projection of the leave ventricular angiogram demonstrate the double lumen leave aortic arch the persistent fifth ach arrow run inferior and parallel to the true aortic arch  the pulmonary artery fill from the right modify blalocktaussig shunt
+ImageCLEFmedCaption_2022_train_000817	angiographic image  lad stenosis and total circumflex occlusion with collateral
+ImageCLEFmedCaption_2022_train_000818	control angiogram after embolization
+ImageCLEFmedCaption_2022_train_000819	angiography of the avm
+ImageCLEFmedCaption_2022_train_000820	the final angiogram show an acceptable result in the lad the dissection in the lad distal to the stent be not treat but thrombolysis in myocardial infarction  flow maintain lad leave anterior descend artery
+ImageCLEFmedCaption_2022_train_000821	preoperative angiography via celiac artery show that the rgea graft remain well patent
+ImageCLEFmedCaption_2022_train_000822	cholangiogram show contrast fill another viscus interpret to be colon
+ImageCLEFmedCaption_2022_train_000823	postoperative digital subtraction angiography show external carotidradial  bypass with good retrograde flow and trap  to  portion of the internal carotid artery
+ImageCLEFmedCaption_2022_train_000824	preoperative intraoral periapical of tooth  show a sudden disappearance of the root canal with diffuse periapical radiolucency on the distal aspect
+ImageCLEFmedCaption_2022_train_000825	failure to cross cto
+ImageCLEFmedCaption_2022_train_000826	post stenting of the proximal lad
+ImageCLEFmedCaption_2022_train_000827	digital subtraction angiogram of a  old boy show bilateral renal arterial stenosis and severe perirenal aortic narrowing
+ImageCLEFmedCaption_2022_train_000828	popliteal artery aneurysm preintervention image show a popliteal artery aneurysm arrow postintervention image b show no filling of the aneurysm after deployment of a stent graft
+ImageCLEFmedCaption_2022_train_000829	angiography of the hepatic artery proper show a clear rich blood supply to the tumor especially at the rim
+ImageCLEFmedCaption_2022_train_000830	good radiological closure with speech
+ImageCLEFmedCaption_2022_train_000831	implantation and dilatation of the expertstent in the axillary artery
+ImageCLEFmedCaption_2022_train_000832	arteriogram of leave subclavian and axillary artery follow removal of internal fixation aa axillary artery pa pseudoaneurysm sa subclavian artery
+ImageCLEFmedCaption_2022_train_000833	coronary angiography image show a spontaneous dissection of the left anterior descend artery of its ostiale and proximal segment
+ImageCLEFmedCaption_2022_train_000834	successful fluoroscopic placement of transpapillary doublepigtail plastic stent
+ImageCLEFmedCaption_2022_train_000835	the pointed end of delivery cable be quite far cephalad from delivery sheath just after the release of the atrial septal defect occluder a and b the cephalad end of delivery sheath and delivery cable respectively
+ImageCLEFmedCaption_2022_train_000836	angiogram of the left inferior phrenic artery arrow in a different patient show collateralization to the left internal mammary artery arrowhead and multiple intercostal artery asterisk
+ImageCLEFmedCaption_2022_train_000837	dsa confirm a petrous carotid aneurysm of the right ica dsa  digital subtraction angiogram ica  internal carotid artery
+ImageCLEFmedCaption_2022_train_000838	coronary angiography injection into the lmca reveal collateral vessel supply the right ventricular myocardium and retrograde flow into the arcapa white arrow
+ImageCLEFmedCaption_2022_train_000839	ll head arteriography ccf after treatment with endovascular approach
+ImageCLEFmedCaption_2022_train_000840	computed tomography scan show the presence of a right heart tumor develop on both side of the tricuspid valve
+ImageCLEFmedCaption_2022_train_000841	an ideal resting gap of  mm
+ImageCLEFmedCaption_2022_train_000842	threedimensional compute tomography angiography reveal a multi aneurysm originate from of both carotis interna posterior communicant artery origin and aneurysmal dilatation on the left superficial temporal artery about  mm in size
+ImageCLEFmedCaption_2022_train_000843	control arteriography of a sequential leave internal thoracic artery to leave anterior descend coronary artery anastomosis supply the septal branch proximally and leave ventricular apex distally control arteriography of a sequential leave internal thoracic artery to leave anterior descend coronary artery anastomosis supply the septal branch proximally and leave ventricular apex distally
+ImageCLEFmedCaption_2022_train_000844	postoperative intraoral periapical radiograph of tooth  show obturation of the root canal system
+ImageCLEFmedCaption_2022_train_000845	right coronary artery rca preintervention reveal  occlusion of the mid rca with thrombus formation
+ImageCLEFmedCaption_2022_train_000846	recanalization of the right coronary after intensive antiaggressive treatment and angioplasty
+ImageCLEFmedCaption_2022_train_000847	leave anterior oblique projection in the supine position giant esophageal hiatal hernia with the distended stomach locate in the chest almost entirely rotation of the stomach along its long axis
+ImageCLEFmedCaption_2022_train_000848	introduction of the endovascular prosthesis
+ImageCLEFmedCaption_2022_train_000849	chronically occlude rca
+ImageCLEFmedCaption_2022_train_000850	esophagram after  year show no recurrence
+ImageCLEFmedCaption_2022_train_000851	the image on the left side show the result of the first procedure the image on the right demonstrate the shortening of the wallstent
+ImageCLEFmedCaption_2022_train_000852	anomalous lcx from rca ostium show critical lesion with haziness in proximal part white arrow in leave anterior oblique with cranial tilt
+ImageCLEFmedCaption_2022_train_000853	angiogram prior to uterine artery embolization show right uterine artery to be enlarge and tortuous a large uterine mass be present
+ImageCLEFmedCaption_2022_train_000854	angiography fail to demonstrate gonadal vein in left renal vein
+ImageCLEFmedCaption_2022_train_000855	superior mesenteric arterial portogram after tjo show hepatopetal portal blood flow
+ImageCLEFmedCaption_2022_train_000856	coronarographie gauche incidence face craniale obstruction distale de liva flche
+ImageCLEFmedCaption_2022_train_000857	abdominal angiography demonstrate an actively bleed large pseudoaneurysm in the peripancreaticvessel arcade likely in the branch of pancreaticoduodenal artery
+ImageCLEFmedCaption_2022_train_000858	angiography reveal the arteriovenous communication between the superficial femoral artery and superficial femoral vein
+ImageCLEFmedCaption_2022_train_000859	case  a  electrocardiogram with inferolateral early repolarization pattern with jpoint elevation and qrs slur after hypothermia treatment red arrow
+ImageCLEFmedCaption_2022_train_000860	magnetic resonance image of the patients right hand
+ImageCLEFmedCaption_2022_train_000861	esophageal wall stent and thoracic aorta stent visualize under fluoroscopy
+ImageCLEFmedCaption_2022_train_000862	broken catheter tip be probe from the aortic end with an exchange length straight tip terumo wire which be see in rv
+ImageCLEFmedCaption_2022_train_000863	digital subtraction angiography demonstrate right vertebral artery change in the caliber of the vessel of the right anteroinferior cerebellar artery as well as the tonsillar branch of the right posteroinferior cerebellar artery
+ImageCLEFmedCaption_2022_train_000864	mr angiography
+ImageCLEFmedCaption_2022_train_000865	preoperative angiography
+ImageCLEFmedCaption_2022_train_000866	ureteropyelogram reveal an obstruction of the low right ureter local ureteral dilatation and intraluminal filling defect
+ImageCLEFmedCaption_2022_train_000867	on table pyelogram confirm intact left collect system and ureter
+ImageCLEFmedCaption_2022_train_000868	sdavf with arterial feeding from artery of adamkiewicz of  woman present with progressive tingling and paresthesia in low extremity for   intercoastal arteriogram at early phase demonstrate that artery of adamkiewicz white arrow ascend first then join anterior spinal artery after characteristic hairpin turn hollow arrow simultaneous appearance of serpentine and tortuous perimedullary venous plexus black arrow imply common origin with artery of adamkiewicz sdavf  spinal dural arteriovenous fistula
+ImageCLEFmedCaption_2022_train_000869	the arteriography of the popliteal artery show the pseudoaneurysm
+ImageCLEFmedCaption_2022_train_000870	stent deployment  mm herculink at right coronary artery ostium use  guide catheter from right radial access
+ImageCLEFmedCaption_2022_train_000871	postembolization right external carotid artery angiogram there be no evidence of arteriovenous fbetula nor opasification of the perimedullary vein
+ImageCLEFmedCaption_2022_train_000872	fluoroscopy demonstrate malignant stricture involve the confluence
+ImageCLEFmedCaption_2022_train_000873	a  man with postnecrotic liver cirrhosis and variceal bleeding portal venogram obtain after transcaval stent placement show good flow through the stent without opacification of gastric cardiac varix which be embolize with stainless coil transstent extravasation of contrast material be not apparent the postprocedural portosystemic pressure gradient be  mmhg
+ImageCLEFmedCaption_2022_train_000874	coronary angiogram show origin of leave circumflex lcx and ramus intermedius from different ostium on leave coronary cusp
+ImageCLEFmedCaption_2022_train_000875	coronary angiogram with a stenosis of the lad arrow
+ImageCLEFmedCaption_2022_train_000876	right coronary artery with distal narrowing
+ImageCLEFmedCaption_2022_train_000877	coronary angiogram show dissection of the middle part of the left anterior descend coronary artery arrow
+ImageCLEFmedCaption_2022_train_000878	reveal lcx arise from right coronary sinus
+ImageCLEFmedCaption_2022_train_000879	postoperative apical radiograph of the left maxillary central incisor region
+ImageCLEFmedCaption_2022_train_000880	dilation of the common bile duct with an angle in the medial tract arrow
+ImageCLEFmedCaption_2022_train_000881	huang type
+ImageCLEFmedCaption_2022_train_000882	right coronary angiography in the right anterior oblique view show a normal dominant right coronary artery with collateral arrow supply to the left anterior descend artery lad
+ImageCLEFmedCaption_2022_train_000883	digital subtraction angiography perform with the catheter in the right ovarian artery origin show an enlarge ovarian artery thin arrow with extensive collateral vascular supply to the uterine fundus and body thick arrow
+ImageCLEFmedCaption_2022_train_000884	contrast angiography show aberrant left subclavian artery arrow arise from the kommerells diverticulum kd kommerells diverticulum
+ImageCLEFmedCaption_2022_train_000885	final angiography image a new  baremetal stent prokinetic biotronik be deploy and impact with a noncompliant  balloon in the proximal lesion to cover the deformed everolimuseluting stent
+ImageCLEFmedCaption_2022_train_000886	venography of the coronary sinus cs in the shallow left anterior oblique projection during the process of cardiac resynchronization therapy injection in the cs via the guide catheter gc illustrate the cs anatomy for appropriate cs lead placement the right ventricular lead be show with the vertical arrow
+ImageCLEFmedCaption_2022_train_000887	leave ventriculogram show a left ventricular diverticulum arrow
+ImageCLEFmedCaption_2022_train_000888	anterior posterior fluoroscopic image of bilateral dorsal root ganglion stimulation lead on the  level
+ImageCLEFmedCaption_2022_train_000889	final timi  of culprit artery
+ImageCLEFmedCaption_2022_train_000890	nephrostogram demonstrate midureteral stricture
+ImageCLEFmedCaption_2022_train_000891	fractured plastic biliary stent uloop in the cbd and proximally migrate into the right biliary duct
+ImageCLEFmedCaption_2022_train_000892	dripinfusion cholangiographycompute tomography scan fortyeight day postoperatively the right accessory hepatic duct be intact black arrow and it dominate an anterior segment of the right hepatic lobe as indicate by the intraoperative cholangiography scan
+ImageCLEFmedCaption_2022_train_000893	case  a  electrocardiogram with inferolateral early repolarization pattern with jpoint elevation and qrs slur after hypothermia treatment red arrow
+ImageCLEFmedCaption_2022_train_000894	depth of implant measurement the arrow show the hinge point between the device and neighboring sinus of valsalva next the red line be draw from the septal to the nonseptal hinge point the yellow line draw perpendicularly from the red line to the extremity of the device frame represent depth on the septal side leave and the nonseptal side right
+ImageCLEFmedCaption_2022_train_000895	extravasation of the contrast agent red arrow follow submandibular duct rupture during sialography an intraglandular radiopaque calculus be see circle white arrow indicate the submandibular duct
+ImageCLEFmedCaption_2022_train_000896	ventriculogram diastole
+ImageCLEFmedCaption_2022_train_000897	renal cyst cavity ablation use  resectoscope and roller ball diathermy
+ImageCLEFmedCaption_2022_train_000898	selective angiography perform by steer the microcatheter red arrow into the right uterine artery demonstrate supply of a large fibroid red circle
+ImageCLEFmedCaption_2022_train_000899	arteriogram demonstrate the occlude peripheral splenic arterial branch and several clip note the absence of vascular contrast to the superior pole of the spleen splenic infarction occur with peripheral branch occlusion due to limited collateral circulation
+ImageCLEFmedCaption_2022_train_000900	coronal planar cerebral dsa follow coil the arrow identify an incidental leave  middle cerebral artery aneurysm
+ImageCLEFmedCaption_2022_train_000901	selective leave coronary angiogram right anterior oblique  caudal  follow fistula closure with amplatzer vascular plug arrowlcx  leave circumflex artery
+ImageCLEFmedCaption_2022_train_000902	fluoroscopic image of a wire coil into a pancreatic fluid collection
+ImageCLEFmedCaption_2022_train_000903	application of a  wide  long cover stentgraft
+ImageCLEFmedCaption_2022_train_000904	ercp show cbd be cannulate at the ampulla use guidewire technique
+ImageCLEFmedCaption_2022_train_000905	similar projection show resolution of thrombus with normal underlying coronary artery
+ImageCLEFmedCaption_2022_train_000906	after embolization there be no filling of the pseudoaneurysm
+ImageCLEFmedCaption_2022_train_000907	venogram demonstrate occlusion of the left common iliac vein
+ImageCLEFmedCaption_2022_train_000908	coronary angiography lao   view show good final result after proximal rca stent deployment
+ImageCLEFmedCaption_2022_train_000909	rca  final result
+ImageCLEFmedCaption_2022_train_000910	endoscopic retrograde cholangiopancreatography show contrast within dilated biliary tree solid arrow and daughter cyst within proximal hepatic duct curved arrow
+ImageCLEFmedCaption_2022_train_000911	the static biomechanical model of unipodal stance during gait the body weight vector fw run perpendicular to the ground and originate from the center of mass be counter balanced by the abductor force fa the magnitude of the bodyweight equal the bodyweight minus that of the weightbearing leg the abductor force pull along the trajectory of the gluteus mediusminimus muscle fiber the bodyweight lever arm b be the perpendicular dbetance between the center of hip rotation and the bodyweight vector as the center of mass move laterally and the bodyweight increase the abductor force will need to increase the abductor lever arm a be the perpendicular dbetance between the center of hip rotation and the abductor force vector if the abductor lever arm morphologically increase the abductor force need to counterbalance a give load decrease
+ImageCLEFmedCaption_2022_train_000912	an anteroposterior view of right coronary angiogram show distal culprit lesion and severe tortuosity of mid rca rca right coronary artery
+ImageCLEFmedCaption_2022_train_000913	note the unusual horizontal orientation of rl main bronchi and carina with contrast in the esophagus and bronchial tree visualize use fluoroscopy
+ImageCLEFmedCaption_2022_train_000914	selective coronary angiogram with catheter in the left main coronary artery lm severe stenosis with tapering of the left main coronary artery distally and with poststenotic dilation aneurysm be see arrow indicate the midlm coronary artery and tight stenosis of the lm coronary artery distally
+ImageCLEFmedCaption_2022_train_000915	angiography show ascend pharyngeal artery as tumor feed vessel
+ImageCLEFmedCaption_2022_train_000916	saccular pseudoaneurysm in the gastroduodenal artery arrow before embolization be perform first angiography
+ImageCLEFmedCaption_2022_train_000917	dilatation of the sphincter of oddi with a balloon catheter be perform
+ImageCLEFmedCaption_2022_train_000918	flouroscopic guide foreign body removal
+ImageCLEFmedCaption_2022_train_000919	typical gev supply in  man with type  gev portal venogram perform after tip creation depict gev supply from lgv white arrowhead and pgv black arrowhead
+ImageCLEFmedCaption_2022_train_000920	ontable angiogram show right  saccular popliteal artery aneurysm prestent
+ImageCLEFmedCaption_2022_train_000921	lateral digital subtraction angiography image of the right common carotid artery show complete occlusion of the extracranial internal carotid artery arrow
+ImageCLEFmedCaption_2022_train_000922	male present with edema of leg erythema pain and abdominal swelling and be later diagnose with chronic aortocaval fistula abdominal aortography show two fistula star between the abdominal aorta and the ivc
+ImageCLEFmedCaption_2022_train_000923	the right coronary system also have similar feature on injection of the contrast
+ImageCLEFmedCaption_2022_train_000924	preoperative dsa imaging
+ImageCLEFmedCaption_2022_train_000925	intraoperative angiography vascular stent implantation with an effective left pulmonary artery lpa dilatation via peripheral access
+ImageCLEFmedCaption_2022_train_000926	tubular hypoplasia of the aortic arch and coarctation in a  female maximal intensity projection image obtain by contrastenhance mr angiography clearly show arch hypoplasia and coarctation arrow this patient also suffer intracerebral hemorrhage probably associate with coarctation
+ImageCLEFmedCaption_2022_train_000927	transkher cholangiography at the end of the surgical procedure no evidence of any filling defect in the biliary tree and good passage of the contrast medium into the duodenum
+ImageCLEFmedCaption_2022_train_000928	an avp i be successfully deploy across the baffle leak through the jugular approach reproduce with permission from reference
+ImageCLEFmedCaption_2022_train_000929	a left approach slightly deviate from the subxiphoid be adopt and the obstruct bile duct segment be expand by the balloon introduce by a guidewire
+ImageCLEFmedCaption_2022_train_000930	a conventional coronary angiographic image at a right anterior obliquecaudal view two aneurysm be homogenously enhance by contrast a and b the large aneurysm show irregular enhancement in the periphery black arrow and most of the central bea be fill with thrombus c the second aneurysm of the left circumflex artery show homogenous filling with contrast material b faint contrast stain be note on the dbetal side of the large aneurysm white arrow a delay image might have show collateral that be see on ct angiography ra ramus intermedius ct compute tomography
+ImageCLEFmedCaption_2022_train_000931	digital subtraction angiogram dsashowing stenosis of the distal portion of the ica white arrow
+ImageCLEFmedCaption_2022_train_000932	rich collateral formation between left circumflex artery and right lung assume as multiple fistula
+ImageCLEFmedCaption_2022_train_000933	aortogram follow single coil occlusion of the aortopulmonary collateral vessel
+ImageCLEFmedCaption_2022_train_000934	leave coronary angiogram demonstrate vascular supply to the myxoma
+ImageCLEFmedCaption_2022_train_000935	near occlusive valve lao cs angiogram demonstrate a near occlusive valve about  cm from the coronary sinus thbe be a frequent site to find the valve of vieussens
+ImageCLEFmedCaption_2022_train_000936	case  carotid artery angiography show the position of the balloon and filter the carotid artery angiographic image show the wire arrow and filter use in the petrous portion of the left internal carotid artery the balloon arrow be ready to inflate
+ImageCLEFmedCaption_2022_train_000937	selective catherization use a microcatheter yellow arrow of the feeding vessel supply the tumor yellow dash circle
+ImageCLEFmedCaption_2022_train_000938	embolic agent of cellulose sponge plug be inject into the splenic artery
+ImageCLEFmedCaption_2022_train_000939	upper gastrointestinal contrast xray check of esophagojejunostomy at postoperative
+ImageCLEFmedCaption_2022_train_000940	top view of vertebral body with cavitycreate balloon in place kyphon
+ImageCLEFmedCaption_2022_train_000941	arteriography of the right arm present brachial artery coil arrowhead
+ImageCLEFmedCaption_2022_train_000942	retain  basket orange arrow show with percutaneous access sheath in position
+ImageCLEFmedCaption_2022_train_000943	show  midspiral right coronary artery dissection
+ImageCLEFmedCaption_2022_train_000944	angiogram of mid left anterior descending artery lesion after standard pci
+ImageCLEFmedCaption_2022_train_000945	case  a  electrocardiogram with inferolateral early repolarization pattern with jpoint elevation and qrs slur after hypothermia treatment red arrow
+ImageCLEFmedCaption_2022_train_000946	right anterior oblique cranial view of a thrombolysis in myocardial infarctioniii flow after successfully treat with percutaneous coronary intervention of the thrombotic right coronary artery
+ImageCLEFmedCaption_2022_train_000947	super dominant rca arise from right sinus in leave anterior oblique view
+ImageCLEFmedCaption_2022_train_000948	central venogram depict absent right and persistent leave svc
+ImageCLEFmedCaption_2022_train_000949	angiography show dilatation pulmonary valve after balloon inflation
+ImageCLEFmedCaption_2022_train_000950	selective coronary angiography demonstrate unexpanded stent embed in the proximal part of the circumflex artery
+ImageCLEFmedCaption_2022_train_000951	preintervention angiographic image show extensive lad thrombosis lad leave anterior descend coronary artery lcx leave circumflex coronary artery
+ImageCLEFmedCaption_2022_train_000952	the image show intracardiac echocardiography ice probe in a tavi procedure tavi transcatheter aortic valve implantation
+ImageCLEFmedCaption_2022_train_000953	transbuccal fluoroscopy after reduction arrow point to the asymmetric distance between the lateral masse of the atlas and the den axis
+ImageCLEFmedCaption_2022_train_000954	final angiogram case
+ImageCLEFmedCaption_2022_train_000955	the filling defect in the left proximal ureteropelvic junction on magnetic resonance urography
+ImageCLEFmedCaption_2022_train_000956	digital subtraction venography demonstrate stasis of the sigmoidal stomal varix with normal opacification of the superior rectal vein
+ImageCLEFmedCaption_2022_train_000957	angiographic view of the patent saphenous venous graft to obtuse marginal branch
+ImageCLEFmedCaption_2022_train_000958	wire place over the par interarticularis on lateral view xray
+ImageCLEFmedCaption_2022_train_000959	percutaneous transhepatic biliary drainage cholangiogram reveal biliary leak from the right posterior sectoral duct
+ImageCLEFmedCaption_2022_train_000960	final angiographic result after pci of the anomalous circumflex artery
+ImageCLEFmedCaption_2022_train_000961	leave internal carotid angiography show a paraclinoid aneurysm
+ImageCLEFmedCaption_2022_train_000962	rgp image
+ImageCLEFmedCaption_2022_train_000963	selective right external carotid artery angiogram lateral projection show a dural arteriovenous arrow fistula feed by the branch of the occipital artery and drain into the perimedullary vein arrowhead around the brainstem and cervical spinal cord
+ImageCLEFmedCaption_2022_train_000964	angiogram after stent placement
+ImageCLEFmedCaption_2022_train_000965	right coronary artery rca after bare metal implantation in the mid rca
+ImageCLEFmedCaption_2022_train_000966	ventriculography perform on lao position reveal minor aneurysm in the apical region
+ImageCLEFmedCaption_2022_train_000967	upper gastrointestinal series demonstrate complete duodenal stenosis by a sharply demarcate mass arrow
+ImageCLEFmedCaption_2022_train_000968	angiography mpa main pulmonary artery ao aorta wd window ductus
+ImageCLEFmedCaption_2022_train_000969	successful recanalization follow by stente of the duct be do a small luminal defect be see inside the stente portion
+ImageCLEFmedCaption_2022_train_000970	hemorrhage feed by two perforate artery locate at the tip of the first and fourth screw
+ImageCLEFmedCaption_2022_train_000971	selective digital subtraction arteriography of the right kidney show an area of tortuous vascular channel locate in the low renal pole the image take a few second after the injection of contrast material demonstrate also early filling of the renal vein
+ImageCLEFmedCaption_2022_train_000972	typical apical ballooning akinesia of midventricular and apical left ventricular segment and hyperkinesis of basal segment
+ImageCLEFmedCaption_2022_train_000973	water soluble contrast enema gastrograffin no therapeutic benefit be achieve an obstructive lesion in the proximal descend colon be identify no contrast pass beyond thbe
+ImageCLEFmedCaption_2022_train_000974	pseudoaneurysm of the right hepatic artery on angiogram
+ImageCLEFmedCaption_2022_train_000975	preoperative angiographic finding focal stenosis between bilateral cavopulmonary shunt and pulmonary artery numerous collateral arise from both internal mammary artery
+ImageCLEFmedCaption_2022_train_000976	attempt at selective cannulation of right coronary artery ostium use  guide catheter unsuccessful use right femoral access
+ImageCLEFmedCaption_2022_train_000977	followup of angiography show no restenosis in the stent
+ImageCLEFmedCaption_2022_train_000978	right coronary artery after angioplasty
+ImageCLEFmedCaption_2022_train_000979	pseudoaneurysm on the right branch of the hepatic artery
+ImageCLEFmedCaption_2022_train_000980	coronary angiography right anterior oblique view with a caudal projection note the single coronary ostium and the right coronary artery and leave main coronary artery originate from the solitary vessel lmca leave main coronary artery lad leave anterior descend coronary artery rca right coronary artery cx circumflex coronary artery
+ImageCLEFmedCaption_2022_train_000981	venography after nitroglycerin application
+ImageCLEFmedCaption_2022_train_000982	lateral angiogram demonstrate a large tubular type duct type c with aortic ao to pulmonary flow mpa the catheter can be see enter the mpa from the right ventricle a second pigtail catheter be position in the descend aorta from which contrast be deliver
+ImageCLEFmedCaption_2022_train_000983	fail attempt show vague contrast spread
+ImageCLEFmedCaption_2022_train_000984	completion angiography shunt exclusion after endovascular embolization by detachable coil and two plug and patency of the left internal iliac vein and inferior vena cava
+ImageCLEFmedCaption_2022_train_000985	complete exclusion of arteriovenous fistula follow endovascular repair
+ImageCLEFmedCaption_2022_train_000986	xray image of the perfuse porcine kidney
+ImageCLEFmedCaption_2022_train_000987	percutaneous transluminal angioplasty to descend aortic coarctation
+ImageCLEFmedCaption_2022_train_000988	thbe fluoroscopic image be an intraoperative fluoroscopic image after the occipital nerve stimulation trial
+ImageCLEFmedCaption_2022_train_000989	stellate ganglion pulse radiofrequency ablation at  level
+ImageCLEFmedCaption_2022_train_000990	successful embolization of the pseudoaneurysm with gelfoam pledget and tornado coil
+ImageCLEFmedCaption_2022_train_000991	type i aberrant right gastric vein in  woman venous phase image of selective right gastric arteriography show two aberrant right gastric vein one in type i arrow and other in type iiib arrowhead
+ImageCLEFmedCaption_2022_train_000992	percutaneous injection of bone cement combine with  particle implantation use a dsa machine guide
+ImageCLEFmedCaption_2022_train_000993	asd closure
+ImageCLEFmedCaption_2022_train_000994	preoperative aortogram with occlusion of the superior mesenteric artery and high grade stenosis of celiac and inferior mesenteric artery arrow note the markedly hypertrophied ima which collateralise with the sma via the marginal branch of drummond arrowhead and the arc of riolan
+ImageCLEFmedCaption_2022_train_000995	deployment of the second  mm pda cardio ofix occluder device still attach to delivery system
+ImageCLEFmedCaption_2022_train_000996	intraprocedure cerebral angiogram demonstrate microcatheter tip placement within the fusiform aneurysm and onyx embolization completion
+ImageCLEFmedCaption_2022_train_000997	flouroscopic image of the stent after insertion
+ImageCLEFmedCaption_2022_train_000998	anatomic variation cystic duct drain into right hepatic duct
+ImageCLEFmedCaption_2022_train_000999	status postdeployment of coil in both the fistulous track angiogram show white arrow completely occlude av fistulous track with good arborization of hepatic arterial branch within the hepatic parenchyma
+ImageCLEFmedCaption_2022_train_001000	leave femoral venogram show block external iliac vein the vein that reform distally pass along the right border of vertebra suggest block low end of inferior vena cava also
+ImageCLEFmedCaption_2022_train_001001	dissect lesion in the proximal part of the superior mesenteric artery arrow
+ImageCLEFmedCaption_2022_train_001002	coronary angiogram with leaveanterior oblique lao view partially open leave anterior descend artery lad with interventional glide wire visualize in distal portion of the artery
+ImageCLEFmedCaption_2022_train_001003	second postoperative day angiogram show a complete resolution of the pouch and disappearance of the pseudoaneurysm
